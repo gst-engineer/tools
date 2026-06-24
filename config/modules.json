@@ -6,8 +6,7 @@
       "icon": "📜",
       "badge": 20,
       "color": "#1a3a5c",
-      "description": "Complete GST Act with all sections",
-      "external": "https://taxinformation.cbic.gov.in/"
+      "description": "Complete GST Act with all sections"
     },
     "gst-rules": {
       "id": "gst-rules",
@@ -15,8 +14,7 @@
       "icon": "📋",
       "badge": 15,
       "color": "#2e7d32",
-      "description": "All GST Rules and regulations",
-      "external": "https://taxinformation.cbic.gov.in/"
+      "description": "All GST Rules and regulations"
     },
     "igst-act": {
       "id": "igst-act",
@@ -24,7 +22,7 @@
       "icon": "🏛️",
       "badge": 10,
       "color": "#c62828",
-      "description": "Integrated GST Act provision"
+      "description": "Integrated GST Act provisions"
     },
     "important": {
       "id": "important",
@@ -35,13 +33,13 @@
       "description": "Most frequently used sections and rules"
     },
     "fut": {
-  "id": "fut",
-  "title": "Frequently Used Tools",
-  "icon": "🛠️",
-  "badge": 5,
-  "color": "#ff6b35",
-  "description": "PDF tools, calculators, and utilities",
-  "external": "https://vikashisexploringai.github.io/toolbox/"
-}
+      "id": "fut",
+      "title": "Frequently Used Tools",
+      "icon": "🛠️",
+      "badge": 5,
+      "color": "#ff6b35",
+      "description": "PDF tools, calculators, and utilities",
+      "external": "https://vikashisexploringai.github.io/toolbox/"
+    }
   }
 }
