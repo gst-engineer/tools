@@ -153,6 +153,82 @@
           "text": "Section 3"
         }
       ]
+    },
+    {
+  "id": "s5",
+  "number": "5",
+  "heading": "Powers of officers under GST",
+  "content": "(1) Subject to such conditions and limitations as the Board may impose, an officer of central tax may exercise the powers and discharge the duties conferred or imposed on him under this Act.\n\n(2) An officer of central tax may exercise the powers and discharge the duties conferred or imposed under this Act on any other officer of central tax who is subordinate to him.\n\n(3) The Commissioner may, subject to such conditions and limitations as may be specified in this behalf by him, delegate his powers to any other officer who is subordinate to him.\n\n(4) Notwithstanding anything contained in this section, an Appellate Authority shall not exercise the powers and discharge the duties conferred or imposed on any other officer of central tax.",
+  "references": []
+},
+    {
+  "id": "s6",
+  "number": "6",
+  "heading": "Authorisation of officers of State tax or Union territory tax as proper officer in certain circumstances",
+  "content": "(1) Without prejudice to the provisions of this Act, the officers appointed under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act are authorised to be the proper officers for the purposes of this Act, subject to such conditions as the Government shall, on the recommendations of the Council, by notification, specify.\n\n(2) Subject to the conditions specified in the notification issued under sub-section (1),-\n(a) where any proper officer issues an order under this Act, he shall also issue an order under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act, as authorised by the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act, as the case may be, under intimation to the jurisdictional officer of State tax or Union territory tax;\n(b) where a proper officer under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act has initiated any proceedings on a subject matter, no proceedings shall be initiated by the proper officer under this Act on the same subject matter.\n\n(3) Any proceedings for rectification, appeal and revision, wherever applicable, of any order passed by an officer appointed under this Act shall not lie before an officer appointed under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act.",
+  "references": []
+},
+    {
+  "id": "s7",
+  "number": "7",
+  "heading": "Scope of supply",
+  "content": "(1) For the purposes of this Act, the expression \"supply\" includes-\n(a) all forms of supply of goods or services or both such as sale, transfer, barter, exchange, licence, rental, lease or disposal made or agreed to be made for a consideration by a person in the course or furtherance of business;\n(aa) the activities or transactions, by a person, other than an individual, to its members or constituents or vice-versa, for cash, deferred payment or other valuable consideration.\nExplanation.-For the purposes of this clause, it is hereby clarified that, notwithstanding anything contained in any other law for the time being in force or any judgment, decree or order of any Court, tribunal or authority, the person and its members or constituents shall be deemed to be two separate persons and the supply of activities or transactions inter se shall be deemed to take place from one such person to another;\n(b) import of services for a consideration whether or not in the course or furtherance of business; and\n(c) the activities specified in Schedule I, made or agreed to be made without a consideration;\n(d) ****.\n(1A) where certain activities or transactions constitute a supply in accordance with the provisions of sub-section (1), they shall be treated either as supply of goods or supply of services as referred to in Schedule II.\n(2) Notwithstanding anything contained in sub-section (1),-\n(a) activities or transactions specified in Schedule III; or\n(b) such activities or transactions undertaken by the Central Government, a State Government or any local authority in which they are engaged as public authorities, as may be notified by the Government on the recommendations of the Council,\nshall be treated neither as a supply of goods nor a supply of services.\n(3) Subject to the provisions of sub-sections (1), (1A) and (2), the Government may, on the recommendations of the Council, specify, by notification, the transactions that are to be treated as -\n(a) a supply of goods and not as a supply of services; or\n(b) a supply of services and not as a supply of goods.",
+  "references": [
+    {
+      "type": "schedule",
+      "id": "schedule1",
+      "text": "Schedule I"
+    },
+    {
+      "type": "schedule",
+      "id": "schedule2",
+      "text": "Schedule II"
+    },
+    {
+      "type": "schedule",
+      "id": "schedule3",
+      "text": "Schedule III"
     }
+  ]
+},
+    {
+  "id": "schedule1",
+  "number": "Schedule I",
+  "heading": "ACTIVITIES TO BE TREATED AS SUPPLY EVEN IF MADE WITHOUT CONSIDERATION",
+  "content": "(1) Permanent transfer or disposal of business assets where input tax credit has been availed on such assets.\n\n(2) Supply of goods or services or both between related persons or between distinct persons as specified in section 25, when made in the course or furtherance of business:\n\nProvided that gifts not exceeding fifty thousand rupees in value in a financial year by an employer to an employee shall not be treated as supply of goods or services or both.\n\n(3) Supply of goods-\n(a) by a principal to his agent where the agent undertakes to supply such goods on behalf of the principal; or\n(b) by an agent to his principal where the agent undertakes to receive such goods on behalf of the principal.\n\n(4) Import of services by a person from a related person or from any of his other establishments outside India, in the course or furtherance of business.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    }
+  ]
+},
+    {
+  "id": "schedule2",
+  "number": "Schedule II",
+  "heading": "ACTIVITIES OR TRANSACTIONS TO BE TREATED AS SUPPLY OF GOODS OR SUPPLY OF SERVICES",
+  "content": "1. Transfer\n(a) any transfer of the title in goods is a supply of goods;\n(b) any transfer of right in goods or of undivided share in goods without the transfer of title thereof, is a supply of services;\n(c) any transfer of title in goods under an agreement which stipulates that property in goods shall pass at a future date upon payment of full consideration as agreed, is a supply of goods.\n\n2. Land and Building\n(a) any lease, tenancy, easement, licence to occupy land is a supply of services;\n(b) any lease or letting out of the building including a commercial, industrial or residential complex for business or commerce, either wholly or partly, is a supply of services.\n\n(3) Treatment or process\nAny treatment or process which is applied to another person's goods is a supply of services.\n\n(4) Transfer of business assets\n(a) where goods forming part of the assets of a business are transferred or disposed of by or under the directions of the person carrying on the business so as no longer to form part of those assets, such transfer or disposal is a supply of goods by the person;\n(b) where, by or under the direction of a person carrying on a business, goods held or used for the purposes of the business are put to any private use or are used, or made available to any person for use, for any purpose other than a purpose of the business, the usage or making available of such goods is a supply of services;\n(c) where any person ceases to be a taxable person, any goods forming part of the assets of any business carried on by him shall be deemed to be supplied by him in the course or furtherance of his business immediately before he ceases to be a taxable person, unless-\n(i) the business is transferred as a going concern to another person; or\n(ii) the business is carried on by a personal representative who is deemed to be a taxable person.\n\n5. Supply of services\nThe following shall be treated as supply of services, namely:-\n(a) renting of immovable property;\n(b) construction of a complex, building, civil structure or a part thereof, including a complex or building intended for sale to a buyer, wholly or partly, except where the entire consideration has been received after issuance of completion certificate, where required, by the competent authority or after its first occupation, whichever is earlier.\nExplanation. -For the purposes of this clause-\n(1) the expression \"competent authority\" means the Government or any authority authorised to issue completion certificate under any law for the time being in force and in case of non-requirement of such certificate from such authority, from any of the following, namely:-\n(i) an architect registered with the Council of Architecture constituted under the Architects Act, 1972 (20 of 1972); or\n(ii) a chartered engineer registered with the Institution of Engineers (India); or\n(iii) a licensed surveyor of the respective local body of the city or town or village or development or planning authority;\n(2) the expression \"construction\" includes additions, alterations, replacements or remodelling of any existing civil structure;\n(c) temporary transfer or permitting the use or enjoyment of any intellectual property right;\n(d) development, design, programming, customization, adaptation, upgradation, enhancement, implementation of information technology software;\n(e) agreeing to the obligation to refrain from an act, or to tolerate an act or a situation, or to do an act; and\n(f) transfer of the right to use any goods for any purpose (whether or not for a specified period) for cash, deferred payment or other valuable consideration.\n\n6. Composite supply\nThe following composite supplies shall be treated as a supply of services, namely:-\n(a) works contract as defined in clause (119) of section 2; and\n(b) supply, by way of or as part of any service or in any other manner whatsoever, of goods, being food or any other article for human consumption or any drink (other than alcoholic liquor for human consumption), where such supply or service is for cash, deferred payment or other valuable consideration.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s2",
+      "text": "Section 2"
+    }
+  ]
+},
+    {
+  "id": "schedule3",
+  "number": "Schedule III",
+  "heading": "ACTIVITIES OR TRANSACTIONS WHICH SHALL BE TREATED NEITHER AS A SUPPLY OF GOODS NOR A SUPPLY OF SERVICES",
+  "content": "1. Services by an employee to the employer in the course of or in relation to his employment.\n\n2. Services by any court or Tribunal established under any law for the time being in force.\n\n3. (a) the functions performed by the Members of Parliament, Members of State Legislature, Members of Panchayats, Members of Municipalities and Members of other local authorities;\n(b) the duties performed by any person who holds any post in pursuance of the provisions of the Constitution in that capacity; or\n(c) the duties performed by any person as a Chairperson or a Member or a Director in a body established by the Central Government or a State Government or local authority and who is not deemed as an employee before the commencement of this clause.\n\n4. Services of funeral, burial, crematorium or mortuary including transportation of the deceased.\n\n5. Sale of land and, subject to clause (b) of paragraph 5 of Schedule II, sale of building.\n\n6. Actionable claims, other than Specified actionable claims.\n\n7. Supply of goods from a place in the non-taxable territory to another place in the non-taxable territory without such goods entering into India.\n\n8. (a) Supply of warehoused goods to any person before clearance for home consumption;\n(aa) Supply of goods warehoused in a Special Economic Zone or in a Free Trade Warehousing Zone to any person before clearance for exports or to the Domestic Tariff Area;\n(b) Supply of goods by the consignee to any other person, by endorsement of documents of title to the goods, after the goods have been dispatched from the port of origin located outside India but before clearance for home consumption.\n\n9. Activity of apportionment of co-insurance premium by the lead insurer to the co-insurer for the insurance services jointly supplied by the lead insurer and the co-insurer to the insured in co-insurance agreements, subject to the condition that the lead insurer pays the central tax, the State tax, the Union territory tax and the integrated tax on the entire amount of premium paid by the insured.\n\n10. Services by insurer to the reinsurer for which ceding commission or the reinsurance commission is deducted from reinsurance premium paid by the insurer to the reinsurer, subject to the condition that the central tax, the State tax, the Union territory tax and the integrated tax is paid by the reinsurer on the gross reinsurance premium payable by the insurer to the reinsurer, inclusive of the said ceding commission or the reinsurance commission.\n\nExplanation 1.-For the purposes of paragraph 2, the term \"court\" includes District Court, High Court and Supreme Court.\n\nExplanation 2.- For the purposes of clause (a) of paragraph 8, the expression \"warehoused goods\" shall have the same meaning as assigned to it in the Customs Act, 1962 (50 of 1962).\n\nExplanation 3.- For the purposes of clause (aa) of paragraph 8, the expressions \"Special Economic Zone\", \"Free Trade Warehousing Zone\" and \"Domestic Tariff Area\" shall have the same meanings respectively as assigned to them in section 2 of the Special Economic Zones Act, 2005.",
+  "references": [
+    {
+      "type": "schedule",
+      "id": "schedule2",
+      "text": "Schedule II"
+    }
+  ]
+}
   ]
 }
