@@ -626,6 +626,157 @@
   ]
 },
     {
+  "id": "s30",
+  "number": "30",
+  "heading": "Revocation of cancellation of registration",
+  "content": "(1) Subject to such conditions as may be prescribed, any registered person, whose registration is cancelled by the proper officer on his own motion, may apply to such officer for revocation of cancellation of the registration in such manner, within such time and subject to such conditions and restrictions, as may be prescribed.\n\n(2) The proper officer may, in such manner and within such period as may be prescribed, by order, either revoke cancellation of the registration or reject the application:\nProvided that the application for revocation of cancellation of registration shall not be rejected unless the applicant has been given an opportunity of being heard.\nProvided further that such revocation of cancellation of registration shall be subject to such conditions and restrictions, as may be prescribed.\n\n(3) The revocation of cancellation of registration under the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act, as the case may be, shall be deemed to be a revocation of cancellation of registration under this Act.",
+  "references": []
+},
+{
+  "id": "s31",
+  "number": "31",
+  "heading": "Tax invoice",
+  "content": "(1) A registered person supplying taxable goods shall, before or at the time of,-\n(a) removal of goods for supply to the recipient, where the supply involves movement of goods; or\n(b) delivery of goods or making available thereof to the recipient, in any other case,\nissue a tax invoice showing the description, quantity and value of goods, the tax charged thereon and such other particulars as may be prescribed:\nProvided that the Government may, on the recommendations of the Council, by notification, specify the categories of goods or supplies in respect of which a tax invoice shall be issued, within such time and in such manner as may be prescribed.\n\n(2) A registered person supplying taxable services shall, before or after the provision of service but within a prescribed period, issue a tax invoice, showing the description, value, tax charged thereon and such other particulars as may be prescribed:\nProvided that the Government may, on the recommendations of the Council, by notification,-\n(a) specify the categories of services or supplies in respect of which a tax invoice shall be issued, within such time and in such manner as may be prescribed;\n(b) subject to the condition mentioned therein, specify the categories of services in respect of which-\n(i) any other document issued in relation to the supply shall be deemed to be a tax invoice; or\n(ii) tax invoice may not be issued.\n\n(3) Notwithstanding anything contained in sub-sections (1) and (2)-\n(a) a registered person may, within one month from the date of issuance of certificate of registration and in such manner as may be prescribed, issue a revised invoice against the invoice already issued during the period beginning with the effective date of registration till the date of issuance of certificate of registration to him;\n(b) a registered person may not issue a tax invoice if the value of the goods or services or both supplied is less than two hundred rupees subject to such conditions and in such manner as may be prescribed;\n(c) a registered person supplying exempted goods or services or both or paying tax under the provisions of section 10 shall issue, instead of a tax invoice, a bill of supply containing such particulars and in such manner as may be prescribed:\nProvided that the registered person may not issue a bill of supply if the value of the goods or services or both supplied is less than two hundred rupees subject to such conditions and in such manner as may be prescribed;\n(d) a registered person shall, on receipt of advance payment with respect to any supply of goods or services or both, issue a receipt voucher or any other document, containing such particulars as may be prescribed, evidencing receipt of such payment;\n(e) where, on receipt of advance payment with respect to any supply of goods or services or both the registered person issues a receipt voucher, but subsequently no supply is made and no tax invoice is issued in pursuance thereof, the said registered person may issue to the person who had made the payment, a refund voucher against such payment;\n(f) a registered person who is liable to pay tax under sub-section (3) or sub-section (4) of section 9 shall, within the period as may be prescribed, issue an invoice in respect of goods or services or both received by him from the supplier who is not registered on the date of receipt of goods or services or both;\n(g) a registered person who is liable to pay tax under sub-section (3) or sub-section (4) of section 9 shall issue a payment voucher at the time of making payment to the supplier.\nExplanation.––For the purposes of clause (f), the expression \"supplier who is not registered\" shall include the supplier who is registered solely for the purpose of deduction of tax under section 51.\n\n(4) In case of continuous supply of goods, where successive statements of accounts or successive payments are involved, the invoice shall be issued before or at the time each such statement is issued or, as the case may be, each such payment is received.\n\n(5) Subject to the provisions of clause (d) of sub-section (3), in case of continuous supply of services,-\n(a) where the due date of payment is ascertainable from the contract, the invoice shall be issued on or before the due date of payment;\n(b) where the due date of payment is not ascertainable from the contract, the invoice shall be issued before or at the time when the supplier of service receives the payment;\n(c) where the payment is linked to the completion of an event, the invoice shall be issued on or before the date of completion of that event.\n\n(6) In a case where the supply of services ceases under a contract before the completion of the supply, the invoice shall be issued at the time when the supply ceases and such invoice shall be issued to the extent of the supply made before such cessation.\n\n(7) Notwithstanding anything contained in sub-section (1), where the goods being sent or taken on approval for sale or return are removed before the supply takes place, the invoice shall be issued before or at the time of supply or six months from the date of removal, whichever is earlier.\nExplanation.-For the purposes of this section, the expression \"tax invoice\" shall include any revised invoice issued by the supplier in respect of a supply made earlier.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    },
+    {
+      "type": "section",
+      "id": "s9",
+      "text": "Section 9"
+    },
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    }
+  ]
+},
+{
+  "id": "s31A",
+  "number": "31A",
+  "heading": "Facility of digital payment to recipient",
+  "content": "The Government may, on the recommendations of the Council, prescribe a class of registered persons who shall provide prescribed modes of electronic payment to the recipient of supply of goods or services or both made by him and give option to such recipient to make payment accordingly, in such manner and subject to such conditions and restrictions, as may be prescribed.",
+  "references": []
+},
+{
+  "id": "s32",
+  "number": "32",
+  "heading": "Prohibition of unauthorised collection of tax",
+  "content": "(1) A person who is not a registered person shall not collect in respect of any supply of goods or services or both any amount by way of tax under this Act.\n\n(2) No registered person shall collect tax except in accordance with the provisions of this Act or the rules made thereunder.",
+  "references": []
+},
+{
+  "id": "s33",
+  "number": "33",
+  "heading": "Amount of tax to be indicated in tax invoice and other documents",
+  "content": "Notwithstanding anything contained in this Act or any other law for the time being in force, where any supply is made for a consideration, every person who is liable to pay tax for such supply shall prominently indicate in all documents relating to assessment, tax invoice and other like documents, the amount of tax which shall form part of the price at which such supply is made.",
+  "references": []
+},
+{
+  "id": "s34",
+  "number": "34",
+  "heading": "Credit and debit notes",
+  "content": "(1) Where one or more tax invoices have been issued for supply of any goods or services or both and the taxable value or tax charged in that tax invoice is found to exceed the taxable value or tax payable in respect of such supply, or where the goods supplied are returned by the recipient, or where goods or services or both supplied are found to be deficient or where a discount referred to in clause (b) of sub-section (3) of section 15 is given, the registered person, who has supplied such goods or services or both, may issue to the recipient one or more credit notes for supplies made in a financial year containing such particulars as may be prescribed.\n\n(2) Any registered person who issues a credit note in relation to a supply of goods or services or both shall declare the details of such credit note in the return for the month during which such credit note has been issued but not later than the thirtieth day of November following the end of the financial year in which such supply was made, or the date of furnishing of the relevant annual return, whichever is earlier, and the tax liability shall be adjusted in such manner as may be prescribed:\nProvided that no reduction in output tax liability of the supplier shall be permitted, if the–\n(i) input tax credit as is attributable to such a credit note, if availed, has not been reversed by the recipient, where such recipient is a registered person; or\n(ii) incidence of tax on such supply has been passed on to any other person, in other cases.\n\n(3) Where one or more tax invoices have been issued for supply of any goods or services or both and the taxable value or tax charged in that tax invoice is found to be less than the taxable value or tax payable in respect of such supply, the registered person, who has supplied such goods or services or both, shall issue to the recipient one or more debit notes for supplies made in a financial year containing such particulars as may be prescribed.\n\n(4) Any registered person who issues a debit note in relation to a supply of goods or services or both shall declare the details of such debit note in the return for the month during which such debit note has been issued and the tax liability shall be adjusted in such manner as may be prescribed.\nExplanation.-For the purposes of this Act, the expression \"debit note\" shall include a supplementary invoice.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s15",
+      "text": "Section 15"
+    }
+  ]
+},
+{
+  "id": "s35",
+  "number": "35",
+  "heading": "Accounts and other records",
+  "content": "(1) Every registered person shall keep and maintain, at his principal place of business, as mentioned in the certificate of registration, a true and correct account of-\n(a) production or manufacture of goods;\n(b) inward and outward supply of goods or services or both;\n(c) stock of goods;\n(d) input tax credit availed;\n(e) output tax payable and paid; and\n(f) such other particulars as may be prescribed:\nProvided that where more than one place of business is specified in the certificate of registration, the accounts relating to each place of business shall be kept at such places of business:\nProvided further that the registered person may keep and maintain such accounts and other particulars in electronic form in such manner as may be prescribed.\n\n(2) Every owner or operator of warehouse or godown or any other place used for storage of goods and every transporter, irrespective of whether he is a registered person or not, shall maintain records of the consigner, consignee and other relevant details of the goods in such manner as may be prescribed.\n\n(3) The Commissioner may notify a class of taxable persons to maintain additional accounts or documents for such purpose as may be specified therein.\n\n(4) Where the Commissioner considers that any class of taxable person is not in a position to keep and maintain accounts in accordance with the provisions of this section, he may, for reasons to be recorded in writing, permit such class of taxable persons to maintain accounts in such manner as may be prescribed.\n\n(5) ****\n\n(6) Subject to the provisions of clause (h) of sub-section (5) of section 17, where the registered person fails to account for the goods or services or both in accordance with the provisions of sub-section (1), the proper officer shall determine the amount of tax payable on the goods or services or both that are not accounted for, as if such goods or services or both had been supplied by such person and the provisions of section 73 or section 74 or section 74A, as the case may be, shall, mutatis mutandis, apply for determination of such tax.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s17",
+      "text": "Section 17"
+    },
+    {
+      "type": "section",
+      "id": "s73",
+      "text": "Section 73"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s74A",
+      "text": "Section 74A"
+    }
+  ]
+},
+{
+  "id": "s36",
+  "number": "36",
+  "heading": "Period of retention of accounts",
+  "content": "Every registered person required to keep and maintain books of account or other records in accordance with the provisions of sub-section (1) of section 35 shall retain them until the expiry of seventy-two months from the due date of furnishing of annual return for the year pertaining to such accounts and records:\nProvided that a registered person, who is a party to an appeal or revision or any other proceedings before any Appellate Authority or Revisional Authority or Appellate Tribunal or court, whether filed by him or by the Commissioner, or is under investigation for an offence under Chapter XIX, shall retain the books of account and other records pertaining to the subject matter of such appeal or revision or proceedings or investigation for a period of one year after final disposal of such appeal or revision or proceedings or investigation, or for the period specified above, whichever is later.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s35",
+      "text": "Section 35"
+    }
+  ]
+},
+{
+  "id": "s37",
+  "number": "37",
+  "heading": "Furnishing details of outward supplies",
+  "content": "(1) Every registered person, other than an Input Service Distributor, a non-resident taxable person and a person paying tax under the provisions of section 10 or section 51 or section 52, shall furnish, electronically subject to such conditions and restrictions and in such form and manner as may be prescribed, the details of outward supplies of goods or services or both effected during a tax period on or before the tenth day of the month succeeding the said tax period and such details shall, subject to such conditions and restrictions, within such time and in such manner as may be prescribed, be communicated to the recipient of the said supplies:\nProvided that the Commissioner may, for reasons to be recorded in writing, by notification, extend the time limit for furnishing such details for such class of taxable persons as may be specified therein:\nProvided further that any extension of time limit notified by the Commissioner of State tax or Commissioner of Union territory tax shall be deemed to be notified by the Commissioner.\n\n(2) ***\n\n(3) Any registered person, who has furnished the details under sub-section (1) for any tax period, shall, upon discovery of any error or omission therein, rectify such error or omission in such manner as may be prescribed, and shall pay the tax and interest, if any, in case there is a short payment of tax on account of such error or omission, in the return to be furnished for such tax period:\nProvided that no rectification of error or omission in respect of the details furnished under sub-section (1) shall be allowed after the thirtieth day of November following the end of the financial year to which such details pertain, or furnishing of the relevant annual return, whichever is earlier.\nProvided further that the rectification of error or omission in respect of the details furnished under sub-section (1) shall be allowed after furnishing of the return under section 39 for the month of September, 2018 till the due date for furnishing the details under sub-section (1) for the month of March, 2019 or for the quarter January, 2019 to March, 2019.\n\n(4) A registered person shall not be allowed to furnish the details of outward supplies under sub-section (1) for a tax period, if the details of outward supplies for any of the previous tax periods has not been furnished by him:\nProvided that the Government may, on the recommendations of the Council, by notification, subject to such conditions and restrictions as may be specified therein, allow a registered person or a class of registered persons to furnish the details of outward supplies under sub-section (1), even if he has not furnished the details of outward supplies for one or more previous tax periods.\nExplanation. -For the purposes of this Chapter, the expression \"details of outward supplies\" shall include details of invoices, debit notes, credit notes and revised invoices issued in relation to outward supplies made during any tax period.\n\n(5) A registered person shall not be allowed to furnish the details of outward supplies under sub-section (1) for a tax period after the expiry of a period of three years from the due date of furnishing the said details:\nProvided that the Government may, on the recommendations of the Council, by notification, subject to such conditions and restrictions as may be specified therein, allow a registered person or a class of registered persons to furnish the details of outward supplies for a tax period under sub-section (1), even after the expiry of the said period of three years from the due date of furnishing the said details.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    },
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    },
+    {
+      "type": "section",
+      "id": "s39",
+      "text": "Section 39"
+    }
+  ]
+},
+{
+  "id": "s38",
+  "number": "38",
+  "heading": "Communication of details of inward supplies and input tax credit",
+  "content": "(1) The details of outward supplies furnished by the registered persons under sub-section (1) of section 37 and of such other supplies as may be prescribed, and a statement containing the details of input tax credit shall be made available electronically to the recipients of such supplies in such form and manner, within such time, and subject to such conditions and restrictions as may be prescribed.\n\n(2) The statement referred in sub-section (1) shall consist of––\n(a) details of inward supplies in respect of which credit of input tax may be available to the recipient;\n(b) details of supplies in respect of which such credit cannot be availed, whether wholly or partly, including, on account of the details of the said supplies being furnished under sub-section (1) of section 37,––\n(i) by any registered person within such period of taking registration as may be prescribed; or\n(ii) by any registered person, who has defaulted in payment of tax and where such default has continued for such period as may be prescribed; or\n(iii) by any registered person, the output tax payable by whom in accordance with the statement of outward supplies furnished by him under the said sub-section during such period, as may be prescribed, exceeds the output tax paid by him during the said period by such limit as may be prescribed; or\n(iv) by any registered person who, during such period as may be prescribed, has availed credit of input tax of an amount that exceeds the credit that can be availed by him in accordance with clause (a), by such limit as may be prescribed; or\n(v) by any registered person, who has defaulted in discharging his tax liability in accordance with the provisions of sub-section (12) of section 49 subject to such conditions and restrictions as may be prescribed; or\n(vi) by such other class of persons as may be prescribed.\n(c) such other details as may be prescribed.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s37",
+      "text": "Section 37"
+    },
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    }
+  ]
+},
+    {
   "id": "s148",
   "number": "148",
   "heading": "Special procedure for certain processes",
