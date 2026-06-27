@@ -1,20 +1,112 @@
 {
-  "id": "r1",
-  "number": "1",
-  "heading": "Short title and commencement",
-  "content": "(1) These rules may be called the Central Goods and Services Tax Rules, 2017.\n\n(2) They shall come into force with effect from 22nd June, 2017.",
-  "references": []
-},
-{
-  "id": "r2",
-  "number": "2",
-  "heading": "Definitions",
-  "content": "In these rules, unless the context otherwise requires, -\n(a) \"Act\" means the Central Goods and Services Tax Act, 2017 (12 of 2017);\n(b) \"Form\" means a Form appended to these rules;\n(c) \"section\" means a section of the Act;\n(d) \"Special Economic Zone\" shall have the same meaning as assigned to it in clause (za) of section 2 of the Special Economic Zones Act, 2005 (28 of 2005);\n(e) words and expressions used herein but not defined and defined in the Act shall have the meanings respectively assigned to them in the Act.",
-  "references": [
+  "title": "Central Goods and Services Tax Rules, 2017",
+  "shortTitle": "CGST Rules, 2017",
+  "version": "1.0",
+  "lastUpdated": "2026-06-27",
+  "rules": [
     {
-      "type": "section",
-      "id": "s2",
-      "text": "Section 2"
+      "id": "r1",
+      "number": "1",
+      "heading": "Short title and commencement",
+      "content": "(1) These rules may be called the Central Goods and Services Tax Rules, 2017.\n\n(2) They shall come into force with effect from 22nd June, 2017.",
+      "references": []
+    },
+    {
+      "id": "r2",
+      "number": "2",
+      "heading": "Definitions",
+      "content": "In these rules, unless the context otherwise requires, -\n(a) \"Act\" means the Central Goods and Services Tax Act, 2017 (12 of 2017);\n(b) \"Form\" means a Form appended to these rules;\n(c) \"section\" means a section of the Act;\n(d) \"Special Economic Zone\" shall have the same meaning as assigned to it in clause (za) of section 2 of the Special Economic Zones Act, 2005 (28 of 2005);\n(e) words and expressions used herein but not defined and defined in the Act shall have the meanings respectively assigned to them in the Act.",
+      "references": [
+        {
+          "type": "section",
+          "id": "s2",
+          "text": "Section 2"
+        }
+      ]
+    },
+    {
+      "id": "r3",
+      "number": "3",
+      "heading": "Intimation for composition levy",
+      "content": "(1) Any person who has been granted registration on a provisional basis under clause (b) of sub-rule (1) of rule 24 and who opts to pay tax under section 10, shall electronically file an intimation in FORM GST CMP-01, duly signed or verified through electronic verification code, on the common portal, either directly or through a Facilitation Centre notified by the Commissioner, prior to the appointed day, but not later than thirty days after the said day, or such further period as may be extended by the Commissioner in this behalf:\nProvided that where the intimation in FORM GST CMP-01 is filed after the appointed day, the registered person shall not collect any tax from the appointed day but shall issue bill of supply for supplies made after the said day.\n\n(2) Any person who applies for registration under sub-rule (1) of rule 8 may give an option to pay tax under section 10 in Part B of FORM GST REG-01, which shall be considered as an intimation to pay tax under the said section.\n\n(3) Any registered person who opts to pay tax under section 10 shall electronically file an intimation in FORM GST CMP-02, duly signed or verified through electronic verification code, on the common portal, either directly or through a Facilitation Centre notified by the Commissioner, prior to the commencement of the financial year for which the option to pay tax under the aforesaid section is exercised and shall furnish the statement in FORM GST ITC-03 in accordance with the provisions of sub-rule (4) of rule 44 within a period of sixty days from the commencement of the relevant financial year:\nProvided that any registered person who opts to pay tax under section 10 for the financial year 2020-21 shall electronically file an intimation in FORM GST CMP-02, duly signed or verified through electronic verification code, on the common portal, either directly or through a Facilitation Centre notified by the Commissioner, on or before 30th day of June, 2020 and shall furnish the statement in FORM GST ITC-03 in accordance with the provisions of sub-rule (4) of rule 44 upto the 31st day of July, 2020.\n\n(3A) Notwithstanding anything contained in sub-rules (1), (2) and (3), a person who has been granted registration on a provisional basis under rule 24 or who has been granted certificate of registration under sub-rule (1) of rule 10 may opt to pay tax under section 10 with effect from the first day of the month immediately succeeding the month in which he files an intimation in FORM GST CMP-02, on the common portal either directly or through a Facilitation Centre notified by the Commissioner, on or before the 31st day of March, 2018, and shall furnish the statement in FORM GST ITC-03 in accordance with the provisions of sub-rule (4) of rule 44 within a period of one hundred and eighty days from the day on which such person commences to pay tax under section 10:\nProvided that the said persons shall not be allowed to furnish the declaration in FORM GST TRAN-1 after the statement in FORM GST ITC-03 has been furnished.\n\n(4) Any person who files an intimation under sub-rule (1) to pay tax under section 10 shall furnish the details of stock, including the inward supply of goods received from unregistered persons, held by him on the day preceding the date from which he opts to pay tax under the said section, electronically, in FORM GST CMP-03, on the common portal, either directly or through a Facilitation Centre notified by the Commissioner, within a period of ninety days from the date on which the option for composition levy is exercised or within such further period as may be extended by the Commissioner in this behalf.\n\n(5) Any intimation under sub-rule (1) or sub-rule (3) or sub-rule (3A) in respect of any place of business in any State or Union territory shall be deemed to be an intimation in respect of all other places of business registered on the same Permanent Account Number.",
+      "references": [
+        {
+          "type": "section",
+          "id": "s10",
+          "text": "Section 10"
+        },
+        {
+          "type": "section",
+          "id": "s9",
+          "text": "Section 9"
+        },
+        {
+          "type": "rule",
+          "id": "r24",
+          "text": "Rule 24"
+        },
+        {
+          "type": "rule",
+          "id": "r8",
+          "text": "Rule 8"
+        },
+        {
+          "type": "rule",
+          "id": "r44",
+          "text": "Rule 44"
+        },
+        {
+          "type": "rule",
+          "id": "r10",
+          "text": "Rule 10"
+        }
+      ]
+    },
+    {
+      "id": "r4",
+      "number": "4",
+      "heading": "Effective date for composition levy",
+      "content": "(1) The option to pay tax under section 10 shall be effective from the beginning of the financial year, where the intimation is filed under sub-rule (3) of rule 3 and the appointed day where the intimation is filed under sub-rule (1) of the said rule.\n\n(2) The intimation under sub-rule (2) of rule 3, shall be considered only after the grant of registration to the applicant and his option to pay tax under section 10 shall be effective from the date fixed under sub-rule (2) or (3) of rule 10.",
+      "references": [
+        {
+          "type": "section",
+          "id": "s10",
+          "text": "Section 10"
+        },
+        {
+          "type": "rule",
+          "id": "r3",
+          "text": "Rule 3"
+        },
+        {
+          "type": "rule",
+          "id": "r10",
+          "text": "Rule 10"
+        }
+      ]
+    },
+    {
+      "id": "r5",
+      "number": "5",
+      "heading": "Conditions and restrictions for composition levy",
+      "content": "(1) The person exercising the option to pay tax under section 10 shall comply with the following conditions, namely: -\n(a) he is neither a casual taxable person nor a non-resident taxable person;\n(b) the goods held in stock by him on the appointed day have not been purchased in the course of inter-State trade or commerce or imported from a place outside India or received from his branch situated outside the State or from his agent or principal outside the State, where the option is exercised under sub-rule (1) of rule 3;\n(c) the goods held in stock by him have not been purchased from an unregistered supplier and where purchased, he pays the tax under sub-section (4) of section 9;\n(d) he shall pay tax under sub-section (3) or sub-section (4) of section 9 on inward supply of goods or services or both;\n(e) he was not engaged in the manufacture of goods as notified under clause (e) of sub-section (2) of section 10, during the preceding financial year;\n(f) he shall mention the words \"composition taxable person, not eligible to collect tax on supplies\" at the top of the bill of supply issued by him; and\n(g) he shall mention the words \"composition taxable person\" on every notice or signboard displayed at a prominent place at his principal place of business and at every additional place or places of business.\n\n(2) The registered person paying tax under section 10 may not file a fresh intimation every year and he may continue to pay tax under the said section subject to the provisions of the Act and these rules.",
+      "references": [
+        {
+          "type": "section",
+          "id": "s10",
+          "text": "Section 10"
+        },
+        {
+          "type": "section",
+          "id": "s9",
+          "text": "Section 9"
+        },
+        {
+          "type": "rule",
+          "id": "r3",
+          "text": "Rule 3"
+        }
+      ]
     }
   ]
 }
