@@ -1918,6 +1918,186 @@
       "text": "Rule 83"
     }
   ]
+},
+    {
+  "id": "r83B",
+  "number": "83B",
+  "heading": "Surrender of enrolment of goods and services tax practitioner",
+  "content": "(1) A goods and services tax practitioner seeking to surrender his enrolment shall electronically submit an application in FORM GST PCT-06, at the common portal, either directly or through a facilitation centre notified by the Commissioner.\n\n(2) The Commissioner, or an officer authorised by him, may after causing such enquiry as deemed fit and by order in FORM GST PCT-07, cancel the enrolment of such practitioner.",
+  "references": []
+},
+{
+  "id": "r84",
+  "number": "84",
+  "heading": "Conditions for purposes of appearance",
+  "content": "(1) No person shall be eligible to attend before any authority as a goods and services tax practitioner in connection with any proceedings under the Act on behalf of any registered or un-registered person unless he has been enrolled under rule 83.\n\n(2) A goods and services tax practitioner attending on behalf of a registered or an unregistered person in any proceedings under the Act before any authority shall produce before such authority, if required, a copy of the authorisation given by such person in FORM GST PCT-05.",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r83",
+      "text": "Rule 83"
+    }
+  ]
+},
+{
+  "id": "r85",
+  "number": "85",
+  "heading": "Electronic Liability Register",
+  "content": "(1) The electronic liability register specified under sub-section (7) of section 49 shall be maintained in FORM GST PMT-01 for each person liable to pay tax, interest, penalty, late fee or any other amount on the common portal and all amounts payable by him shall be debited to the said register.\n\n(2) The electronic liability register of the person shall be debited by-\n(a) the amount payable towards tax, interest, late fee or any other amount payable as per the return furnished by the said person;\n(b) the amount of tax, interest, penalty or any other amount payable as determined by a proper officer in pursuance of any proceedings under the Act or as ascertained by the said person; or\n(c) ****;\n(d) any amount of interest that may accrue from time to time.\n\n(3) Subject to the provisions of section 49, section 49A and section 49B, payment of every liability by a registered person as per his return shall be made by debiting the electronic credit ledger maintained as per rule 86 or the electronic cash ledger maintained as per rule 87 and the electronic liability register shall be credited accordingly.\n\n(4) The amount deducted under section 51, or the amount collected under section 52, or the amount payable on reverse charge basis, or the amount payable under section 10, any amount payable towards interest, penalty, fee or any other amount under the Act shall be paid by debiting the electronic cash ledger maintained as per rule 87 and the electronic liability register shall be credited accordingly.\n\n(5) Any amount of demand debited in the electronic liability register shall stand reduced to the extent of relief given by the appellate authority or Appellate Tribunal or court and the electronic tax liability register shall be credited accordingly.\n\n(6) The amount of penalty imposed or liable to be imposed shall stand reduced partly or fully, as the case may be, if the taxable person makes the payment of tax, interest and penalty specified in the show cause notice or demand order and the electronic liability register shall be credited accordingly.\n\n(7) A registered person shall, upon noticing any discrepancy in his electronic liability ledger, communicate the same to the officer exercising jurisdiction in the matter, through the common portal in FORM GST PMT-04.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    },
+    {
+      "type": "section",
+      "id": "s49A",
+      "text": "Section 49A"
+    },
+    {
+      "type": "section",
+      "id": "s49B",
+      "text": "Section 49B"
+    },
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    },
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    },
+    {
+      "type": "rule",
+      "id": "r86",
+      "text": "Rule 86"
+    },
+    {
+      "type": "rule",
+      "id": "r87",
+      "text": "Rule 87"
+    }
+  ]
+},
+    {
+  "id": "r86",
+  "number": "86",
+  "heading": "Electronic Credit Ledger",
+  "content": "(1) The electronic credit ledger shall be maintained in FORM GST PMT-02 for each registered person eligible for input tax credit under the Act on the common portal and every claim of input tax credit under the Act shall be credited to the said ledger.\n\n(2) The electronic credit ledger shall be debited to the extent of discharge of any liability in accordance with the provisions of section 49 or section 49A or section 49B.\n\n(3) Where a registered person has claimed refund of any unutilized amount from the electronic credit ledger in accordance with the provisions of section 54, the amount to the extent of the claim shall be debited in the said ledger.\n\n(4) If the refund so filed is rejected, either fully or partly, the amount debited under sub-rule (3), to the extent of rejection, shall be re-credited to the electronic credit ledger by the proper officer by an order made in FORM GST PMT-03.\n\n(4A) Where a registered person has claimed refund of any amount paid as tax wrongly paid or paid in excess for which debit has been made from the electronic credit ledger, the said amount, if found admissible, shall be re-credited to the electronic credit ledger by the proper officer by an order made in FORM GST PMT-03.\n\n(4B) Where a registered person deposits the amount of erroneous refund sanctioned to him, -\n(a) under sub-section (3) of section 54 of the Act, or\n(b) under sub-rule (3) of rule 96,\nalong with interest and penalty, wherever applicable, through FORM GST DRC-03, by debiting the electronic cash ledger, on his own or on being pointed out, an amount equivalent to the amount of erroneous refund deposited by the registered person shall be re-credited to the electronic credit ledger by the proper officer by an order made in FORM GST PMT-03A.\n\n(5) Save as provided in the provisions of this Chapter, no entry shall be made directly in the electronic credit ledger under any circumstance.\n\n(6) A registered person shall, upon noticing any discrepancy in his electronic credit ledger, communicate the same to the officer exercising jurisdiction in the matter, through the common portal in FORM GST PMT-04.\n\nExplanation. - For the purposes of this rule, it is hereby clarified that a refund shall be deemed to be rejected, if the appeal is finally rejected or if the claimant gives an undertaking to the proper officer that he shall not file an appeal.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    },
+    {
+      "type": "section",
+      "id": "s49A",
+      "text": "Section 49A"
+    },
+    {
+      "type": "section",
+      "id": "s49B",
+      "text": "Section 49B"
+    },
+    {
+      "type": "section",
+      "id": "s54",
+      "text": "Section 54"
+    },
+    {
+      "type": "rule",
+      "id": "r96",
+      "text": "Rule 96"
+    }
+  ]
+},
+    {
+  "id": "r86A",
+  "number": "86A",
+  "heading": "Conditions of use of amount available in electronic credit ledger",
+  "content": "(1) The Commissioner or an officer authorised by him in this behalf, not below the rank of an Assistant Commissioner, having reasons to believe that credit of input tax available in the electronic credit ledger has been fraudulently availed or is ineligible in as much as-\n(a) the credit of input tax has been availed on the strength of tax invoices or debit notes or any other document prescribed under rule 36-\n(i) issued by a registered person who has been found non-existent or not to be conducting any business from any place for which registration has been obtained; or\n(ii) without receipt of goods or services or both; or\n(b) the credit of input tax has been availed on the strength of tax invoices or debit notes or any other document prescribed under rule 36 in respect of any supply, the tax charged in respect of which has not been paid to the Government; or\n(c) the registered person availing the credit of input tax has been found non-existent or not to be conducting any business from any place for which registration has been obtained; or\n(d) the registered person availing any credit of input tax is not in possession of a tax invoice or debit note or any other document prescribed under rule 36,\nmay, for reasons to be recorded in writing, not allow debit of an amount equivalent to such credit in electronic credit ledger for discharge of any liability under section 49 or for claim of any refund of any unutilised amount.\n\n(2) The Commissioner, or the officer authorised by him under sub-rule (1) may, upon being satisfied that conditions for disallowing debit of electronic credit ledger as above, no longer exist, allow such debit.\n\n(3) Such restriction shall cease to have effect after the expiry of a period of one year from the date of imposing such restriction.",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r36",
+      "text": "Rule 36"
+    },
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    }
+  ]
+},
+    {
+  "id": "r86B",
+  "number": "86B",
+  "heading": "Restrictions on use of amount available in electronic credit ledger",
+  "content": "Notwithstanding anything contained in these rules, the registered person shall not use the amount available in electronic credit ledger to discharge his liability towards output tax in excess of ninety-nine per cent. of such tax liability, in cases where the value of taxable supply other than exempt supply and zero-rated supply, in a month exceeds fifty lakh rupees:\n\nProvided that the said restriction shall not apply where -\n(a) the said person or the proprietor or karta or the managing director or any of its two partners, whole-time Directors, Members of Managing Committee of Associations or Board of Trustees, as the case may be, have paid more than one lakh rupees as income tax under the Income-tax Act, 1961 (43 of 1961) in each of the last two financial years for which the time limit to file return of income under sub-section (1) of section 139 of the said Act has expired; or\n(b) the registered person has received a refund amount of more than one lakh rupees in the preceding financial year on account of unutilised input tax credit under clause (i) of first proviso of sub-section (3) of section 54; or\n(c) the registered person has received a refund amount of more than one lakh rupees in the preceding financial year on account of unutilised input tax credit under clause (ii) of first proviso of sub-section (3) of section 54; or\n(d) the registered person has discharged his liability towards output tax through the electronic cash ledger for an amount which is in excess of 1% of the total output tax liability, applied cumulatively, upto the said month in the current financial year; or\n(e) the registered person is -\n(i) Government Department; or\n(ii) a Public Sector Undertaking; or\n(iii) a local authority; or\n(iv) a statutory body:\n\nProvided further that the Commissioner or an officer authorised by him in this behalf may remove the said restriction after such verifications and such safeguards as he may deem fit.\n\n(f) the registered person other than a manufacturer shall be exempted from the provisions of this rule only in respect of goods specified under rule 31D, on which the tax has been paid by the supplier on the basis of retail sale price.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s54",
+      "text": "Section 54"
+    },
+    {
+      "type": "rule",
+      "id": "r31D",
+      "text": "Rule 31D"
+    }
+  ]
+},
+    {
+  "id": "r87",
+  "number": "87",
+  "heading": "Electronic Cash Ledger",
+  "content": "(1) The electronic cash ledger under sub-section (1) of section 49 shall be maintained in FORM GST PMT-05 for each person, liable to pay tax, interest, penalty, late fee or any other amount, on the common portal for crediting the amount deposited and debiting the payment therefrom towards tax, interest, penalty, fee or any other amount.\n\n(2) Any person, or a person on his behalf, shall generate a challan in FORM GST PMT-06 on the common portal and enter the details of the amount to be deposited by him towards tax, interest, penalty, fees or any other amount:\n\nProvided that the challan in FORM GST PMT-06 generated at the common portal shall be valid for a period of fifteen days.\n\n(3) The deposit under sub-rule (2) shall be made through any of the following modes, namely:-\n(i) Internet Banking through authorised banks;\n(ia) Unified Payment Interface (UPI) from any bank;\n(ib) Immediate Payment Services (IMPS) from any bank;\n(ii) Credit card or Debit card through the authorised bank;\n(iii) National Electronic Fund Transfer or Real Time Gross Settlement from any bank; or\n(iv) Over the Counter payment through authorised banks for deposits up to ten thousand rupees per challan per tax period, by cash, cheque or demand draft:\n\nProvided that the restriction for deposit up to ten thousand rupees per challan in case of an Over the Counter payment shall not apply to deposit to be made by -\n(a) Government Departments or any other deposit to be made by persons as may be notified by the Commissioner in this behalf;\n(b) Proper officer or any other officer authorised to recover outstanding dues from any person, whether registered or not, including recovery made through attachment or sale of movable or immovable properties;\n(c) Proper officer or any other officer authorised for the amounts collected by way of cash, cheque or demand draft during any investigation or enforcement activity or any ad hoc deposit:\n\nProvided further that a person supplying online information and database access or retrieval services from a place outside India to a non-taxable online recipient referred to in section 14, or a person supplying online money gaming from a place outside India to a person in India as referred to in section 14A, of the Integrated Goods and Services Tax Act, 2017 (13 of 2017) may also make the deposit under sub-rule (2) through international money transfer through Society for Worldwide Interbank Financial Telecommunication payment network, from the date to be notified by the Board.\n\nExplanation. - For the purposes of this sub-rule, it is hereby clarified that for making payment of any amount indicated in the challan, the commission, if any, payable in respect of such payment shall be borne by the person making such payment.\n\n(4) Any payment required to be made by a person who is not registered under the Act, shall be made on the basis of a temporary identification number generated through the common portal as per rule 16A.\n\n(5) Where the payment is made by way of National Electronic Fund Transfer or Real Time Gross Settlement, or Immediate Payment Service mode from any bank, the mandate form shall be generated along with the challan on the common portal and the same shall be submitted to the bank from where the payment is to be made:\n\nProvided that the mandate form shall be valid for a period of fifteen days from the date of generation of challan.\n\n(6) On successful credit of the amount to the concerned government account maintained in the authorised bank, a Challan Identification Number shall be generated by the collecting bank and the same shall be indicated in the challan.\n\n(7) On receipt of the Challan Identification Number from the collecting bank, the said amount shall be credited to the electronic cash ledger of the person on whose behalf the deposit has been made and the common portal shall make available a receipt to this effect.\n\n(8) Where the bank account of the person concerned, or the person making the deposit on his behalf, is debited but no Challan Identification Number is generated or generated but not communicated to the common portal, the said person may represent electronically in FORM GST PMT-07 through the common portal to the bank or electronic gateway through which the deposit was initiated:\n\nProvided that where the bank fails to communicate details of Challan Identification Number to the Common Portal, the Electronic Cash Ledger may be updated on the basis of e-Scroll of the Reserve Bank of India in cases where the details of the said e-Scroll are in conformity with the details in challan generated in FORM GST PMT-06 on the Common Portal.\n\n(9) Any amount deducted under section 51 or collected under section 52 and claimed by the registered taxable person from whom the said amount was deducted or, as the case may be, collected shall be credited to his electronic cash ledger.\n\n(10) Where a person has claimed refund of any amount from the electronic cash ledger, the said amount shall be debited to the electronic cash ledger.\n\n(11) If the refund so claimed is rejected, either fully or partly, the amount debited under sub-rule (10), to the extent of rejection, shall be credited to the electronic cash ledger by the proper officer by an order made in FORM GST PMT-03.\n\n(12) A registered person shall, upon noticing any discrepancy in his electronic cash ledger, communicate the same to the officer exercising jurisdiction in the matter, through the common portal in FORM GST PMT-04.\n\nExplanation 1. - The refund shall be deemed to be rejected if the appeal is finally rejected.\nExplanation 2. - For the purposes of this rule, it is hereby clarified that a refund shall be deemed to be rejected, if the appeal is finally rejected or if the claimant gives an undertaking to the proper officer that he shall not file an appeal.\n\n(13) A registered person may, on the common portal, transfer any amount of tax, interest, penalty, fee or any other amount available in the electronic cash ledger under the Act to the electronic cash ledger for integrated tax, central tax, State tax or Union territory tax or cess in FORM GST PMT-09.\n\n(14) A registered person may, on the common portal, transfer any amount of tax, interest, penalty, fee or any other amount available in the electronic cash ledger under the Act to the electronic cash ledger for central tax or integrated tax of a distinct person as specified in sub-section (4) or, as the case may be, sub-section (5) of section 25, in FORM GST PMT-09:\n\nProvided that no such transfer shall be allowed if the said registered person has any unpaid liability in his electronic liability register.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s49",
+      "text": "Section 49"
+    },
+    {
+      "type": "section",
+      "id": "s14",
+      "text": "Section 14 (IGST Act)"
+    },
+    {
+      "type": "section",
+      "id": "s14A",
+      "text": "Section 14A (IGST Act)"
+    },
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    },
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "rule",
+      "id": "r16A",
+      "text": "Rule 16A"
+    }
+  ]
 }
   ]
 }
