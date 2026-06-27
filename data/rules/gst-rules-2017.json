@@ -107,6 +107,24 @@
           "text": "Rule 3"
         }
       ]
+    },
+    {
+  "id": "r6",
+  "number": "6",
+  "heading": "Validity of composition levy",
+  "content": "(1) The option exercised by a registered person to pay tax under section 10 shall remain valid so long as he satisfies all the conditions mentioned in the said section and under these rules.\n\n(2) The person referred to in sub-rule (1) shall be liable to pay tax under sub-section (1) of section 9 from the day he ceases to satisfy any of the conditions mentioned in section 10 or the provisions of this Chapter and shall issue tax invoice for every taxable supply made thereafter and he shall also file an intimation for withdrawal from the scheme in FORM GST CMP-04 within seven days of the occurrence of such event.\n\n(3) The registered person who intends to withdraw from the composition scheme shall, before the date of such withdrawal, file an application in FORM GST CMP-04, duly signed or verified through electronic verification code, electronically on the common portal.\n\n(4) Where the proper officer has reasons to believe that the registered person was not eligible to pay tax under section 10 or has contravened the provisions of the Act or provisions of this Chapter, he may issue a notice to such person in FORM GST CMP-05 to show cause within fifteen days of the receipt of such notice as to why the option to pay tax under section 10 shall not be denied.\n\n(5) Upon receipt of the reply to the show-cause notice issued under sub-rule (4) from the registered person in FORM GST CMP-06, the proper officer shall issue an order in FORM GST CMP-07 within a period of thirty days of the receipt of such reply, either accepting the reply, or denying the option to pay tax under section 10 from the date of the option or from the date of the event concerning such contravention, as the case may be.\n\n(6) Every person who has furnished an intimation under sub-rule (2) or filed an application for withdrawal under sub-rule (3) or a person in respect of whom an order of withdrawal of option has been passed in FORM GST CMP-07 under sub-rule (5), may electronically furnish at the common portal, either directly or through a Facilitation Centre notified by the Commissioner, a statement in FORM GST ITC-01 containing details of the stock of inputs and inputs contained in semi-finished or finished goods held in stock by him on the date on which the option is withdrawn or denied, within a period of thirty days from the date from which the option is withdrawn or from the date of the order passed in FORM GST CMP-07, as the case may be.\n\n(7) Any intimation or application for withdrawal under sub-rule (2) or (3) or denial of the option to pay tax under section 10 in accordance with sub-rule (5) in respect of any place of business in any State or Union territory, shall be deemed to be an intimation in respect of all other places of business registered on the same Permanent Account Number.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    },
+    {
+      "type": "section",
+      "id": "s9",
+      "text": "Section 9"
     }
+  ]
+}
   ]
 }
