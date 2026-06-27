@@ -143,6 +143,427 @@
       "text": "Schedule II"
     }
   ]
+},
+    {
+  "id": "r8",
+  "number": "8",
+  "heading": "Application for registration",
+  "content": "(1) Every person who is liable to be registered under sub-section (1) of section 25 and every person seeking registration under sub-section (3) of section 25 (hereafter in this Chapter referred to as \"the applicant\"), except—\n(i) a non-resident taxable person;\n(ii) a person required to deduct tax at source under section 51;\n(iii) a person required to collect tax at source under section 52;\n(iv) a person supplying online information and database access or retrieval services from a place outside India to a non-taxable online recipient referred to in section 14 or a person supplying online money gaming from a place outside India to a person in India referred to in section 14A under the Integrated Goods and Services Tax Act, 2017 (13 of 2017),\nshall, before applying for registration, declare his Permanent Account Number, State or Union territory in Part A of FORM GST REG-01 on the common portal, either directly or through a Facilitation Centre notified by the Commissioner:\n\nProvided that every person being an Input Service Distributor shall make a separate application for registration as such Input Service Distributor.\n\n(2) (a) The Permanent Account Number shall be validated online by the common portal from the database maintained by the Central Board of Direct Taxes and shall also be verified through separate one-time passwords sent to the mobile number and e-mail address linked to the Permanent Account Number.\n(b) ****\n(c) ****\n\n(3) On successful verification of the Permanent Account Number, mobile number and email address, a temporary reference number shall be generated and communicated to the applicant on the said mobile number and e-mail address.\n\n(4) Using the reference number generated under sub-rule (3), the applicant shall electronically submit an application in Part B of FORM GST REG-01, duly signed or verified through electronic verification code, along with the documents specified in the said Form at the common portal, either directly or through a Facilitation Centre notified by the Commissioner.\n\n(4A) Where an applicant, other than a person notified under sub-section (6D) of section 25, opts for authentication of Aadhaar number, he shall, while submitting the application under sub-rule (4), undergo authentication of Aadhaar number and the date of submission of the application in such cases shall be the date of authentication of the Aadhaar number, or fifteen days from the submission of the application in Part B of FORM GST REG-01 under sub-rule (4), whichever is earlier:\nProvided that every application made under sub-rule (4) by a person, other than a person notified under sub-section (6D) of section 25, who has opted for authentication of Aadhaar number and is identified on the common portal, based on data analysis and risk parameters, shall be followed by biometric-based Aadhaar authentication and taking photograph of the applicant where the applicant is an individual or of such individuals in relation to the applicant as notified under sub-section (6C) of section 25 where the applicant is not an individual, along with the verification of the original copy of the documents uploaded with the application in FORM GST REG-01 at one of the Facilitation Centres notified by the Commissioner for the purpose of this sub-rule and the application shall be deemed to be complete only after completion of the process laid down under this proviso:\nProvided further that every application made under sub-rule (4) by a person, other than a person notified under sub-section (6D) of section 25, who has not opted for authentication of Aadhaar number, shall be followed by taking photograph of the applicant where the applicant is an individual or of such individuals in relation to the applicant as notified under sub-section (6C) of section 25 where the applicant is not an individual, along with the verification of the original copy of the documents uploaded with the application in FORM GST REG-01 at one of the Facilitation Centers notified by the Commissioner for the purpose of this sub-rule and the application shall be deemed to be complete only after successful verification as laid down under this proviso.\n\n(4B) The Central Government may, on the recommendations of the Council, by notification specify the States or Union territories wherein the proviso to sub-rule (4A) shall not apply.\n\n(5) On receipt of an application under sub-rule (4) or sub-rule (4A), an acknowledgement shall be issued electronically to the applicant in FORM GST REG-02.\n\n(6) A person applying for registration as a casual taxable person shall be given a temporary reference number by the common portal for making advance deposit of tax in accordance with the provisions of section 27 and the acknowledgement under sub-rule (5) shall be issued electronically only after the said deposit.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    },
+    {
+      "type": "section",
+      "id": "s14",
+      "text": "Section 14 (IGST Act)"
+    },
+    {
+      "type": "section",
+      "id": "s14A",
+      "text": "Section 14A (IGST Act)"
+    },
+    {
+      "type": "section",
+      "id": "s27",
+      "text": "Section 27"
+    }
+  ]
+},
+    {
+  "id": "r9",
+  "number": "9",
+  "heading": "Verification of the application and approval",
+  "content": "(1) The application shall be forwarded to the proper officer who shall examine the application and the accompanying documents and if the same are found to be in order, approve the grant of registration to the applicant within a period of seven working days from the date of submission of the application:\nProvided that where -\n(a) a person, other than a person notified under sub-section (6D) of section 25, fails to undergo authentication of Aadhaar number as specified in sub-rule (4A) of rule 8 or does not opt for authentication of Aadhaar number; or\n(aa) a person, who has undergone authentication of Aadhaar number as specified in sub-rule (4A) of rule 8, is identified on the common portal, based on data analysis and risk parameters, for carrying out physical verification of places of business; or\n(b) the proper officer, with the approval of an officer authorised by the Commissioner not below the rank of Assistant Commissioner, deems it fit to carry out physical verification of places of business,\nthe registration shall be granted within thirty days of submission of application, after physical verification of the place of business, in the manner provided under rule 25 and verification of such documents as the proper officer may deem fit.\n\n(2) Where the application submitted under rule 8 is found to be deficient, either in terms of any information or any document required to be furnished under the said rule, or where the proper officer requires any clarification with regard to any information provided in the application or documents furnished therewith, he may issue a notice to the applicant electronically in FORM GST REG-03 within a period of seven working days from the date of submission of the application and the applicant shall furnish such clarification, information or documents electronically, in FORM GST REG-04, within a period of seven working days from the date of the receipt of such notice:\nProvided that where -\n(a) a person, other than a person notified under sub-section (6D) of section 25, fails to undergo authentication of Aadhaar number as specified in sub-rule (4A) of rule 8 or does not opt for authentication of Aadhaar number; or\n(aa) a person, who has undergone authentication of Aadhaar number as specified in sub-rule (4A) of rule 8, is identified on the common portal, based on data analysis and risk parameters, for carrying out physical verification of places of business; or\n(b) the proper officer, with the approval of an officer authorised by the Commissioner not below the rank of Assistant Commissioner, deems it fit to carry out physical verification of places of business,\nthe notice in FORM GST REG-03 may be issued not later than thirty days from the date of submission of the application.\nExplanation. - For the purposes of this sub-rule, the expression \"clarification\" includes modification or correction of particulars declared in the application for registration, other than Permanent Account Number, State, mobile number and e-mail address declared in Part A of FORM GST REG-01.\n\n(3) Where the proper officer is satisfied with the clarification, information or documents furnished by the applicant, he may approve the grant of registration to the applicant within a period of seven working days from the date of the receipt of such clarification or information or documents.\n\n(4) Where no reply is furnished by the applicant in response to the notice issued under sub-rule (2) or where the proper officer is not satisfied with the clarification, information or documents furnished, he may, for reasons to be recorded in writing, reject such application and inform the applicant electronically in FORM GST REG-05.\n\n(5) If the proper officer fails to take any action, -\n(a) within a period of seven working days from the date of submission of the application in cases where the person is not covered under proviso to sub-rule (1); or\n(b) within a period of thirty days from the date of submission of the application in cases where a person is covered under proviso to sub-rule (1); or\n(c) within a period of seven working days from the date of the receipt of the clarification, information or documents furnished by the applicant under sub-rule (2),\nthe application for grant of registration shall be deemed to have been approved.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "rule",
+      "id": "r8",
+      "text": "Rule 8"
+    },
+    {
+      "type": "rule",
+      "id": "r25",
+      "text": "Rule 25"
+    }
+  ]
+},
+    {
+  "id": "r9A",
+  "number": "9A",
+  "heading": "Grant of registration electronically",
+  "content": "Notwithstanding anything contained in rule 9, any person who has applied for registration under rule 8 or rule 12 or rule 17, shall, upon identification on the common portal based on data analysis and risk parameters, be granted registration electronically by the common portal, within three working days from the date of submission of application.",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r9",
+      "text": "Rule 9"
+    },
+    {
+      "type": "rule",
+      "id": "r8",
+      "text": "Rule 8"
+    },
+    {
+      "type": "rule",
+      "id": "r12",
+      "text": "Rule 12"
+    },
+    {
+      "type": "rule",
+      "id": "r17",
+      "text": "Rule 17"
+    }
+  ]
+},
+    {
+  "id": "r10",
+  "number": "10",
+  "heading": "Issue of registration certificate",
+  "content": "(1) Subject to the provisions of sub-section (12) of section 25, where the application for grant of registration has been approved under rule 9, rule 9A and rule 14A, a certificate of registration in FORM GST REG-06 showing the principal place of business and additional place or places of business shall be made available to the applicant on the common portal and a Goods and Services Tax Identification Number shall be assigned subject to the following characters, namely: -\n(a) two characters for the State code;\n(b) ten characters for the Permanent Account Number or the Tax Deduction and Collection Account Number;\n(c) two characters for the entity code; and\n(d) one checksum character.\n\n(2) The registration shall be effective from the date on which the person becomes liable to registration where the application for registration has been submitted within a period of thirty days from such date.\n\n(3) Where an application for registration has been submitted by the applicant after the expiry of thirty days from the date of his becoming liable to registration, the effective date of registration shall be the date of the grant of registration under sub-rule (1) or sub-rule (3) or sub-rule (5) of rule 9.\n\n(4) Every certificate of registration shall be duly signed or verified through electronic verification code by the proper officer under the Act.\n\n(5) Where the registration has been granted under sub-rule (5) of rule 9, the applicant shall be communicated the registration number, and the certificate of registration under sub-rule (1), duly signed or verified through electronic verification code, shall be made available to him on the common portal, within a period of three days after the expiry of the period specified in sub-rule (5) of rule 9.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "rule",
+      "id": "r9",
+      "text": "Rule 9"
+    },
+    {
+      "type": "rule",
+      "id": "r9A",
+      "text": "Rule 9A"
+    },
+    {
+      "type": "rule",
+      "id": "r14A",
+      "text": "Rule 14A"
+    }
+  ]
+},
+    {
+  "id": "r10A",
+  "number": "10A",
+  "heading": "Furnishing of Bank Account Details",
+  "content": "After a certificate of registration in FORM GST REG-06 has been made available on the common portal and a Goods and Services Tax Identification Number has been assigned, the registered person, except those who have been granted registration under rule 12 or, as the case may be, rule 16, shall within a period of thirty days from the date of grant of registration, or before furnishing the details of outward supplies of goods or services or both under section 37 in FORM GSTR-1 or using invoice furnishing facility, whichever is earlier, furnish information with respect to details of bank account on the common portal.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s37",
+      "text": "Section 37"
+    },
+    {
+      "type": "rule",
+      "id": "r12",
+      "text": "Rule 12"
+    },
+    {
+      "type": "rule",
+      "id": "r16",
+      "text": "Rule 16"
+    }
+  ]
+},
+    {
+  "id": "r10B",
+  "number": "10B",
+  "heading": "Aadhaar authentication for registered person",
+  "content": "The registered person, other than a person notified under sub-section (6D) of section 25, who has been issued a certificate of registration under rule 10 shall, undergo authentication of the Aadhaar number of the proprietor, in the case of proprietorship firm, or of any partner, in the case of a partnership firm, or of the karta, in the case of a Hindu undivided family, or of the Managing Director or any whole time Director, in the case of a company, or of any of the Members of the Managing Committee of an Association of persons or body of individuals or a Society, or of the Trustee in the Board of Trustees, in the case of a Trust and of the authorized signatory, in order to be eligible for the purposes as specified in column (2) of the Table below:\n\n<table border=\"1\" cellpadding=\"8\" cellspacing=\"0\" style=\"border-collapse: collapse; width: 100%; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #f2f2f2;\">\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">S. No.</th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">Purpose</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">1.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">For filing of application for revocation of cancellation of registration in FORM GST REG-21 under Rule 23</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">2.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">For filing of refund application in FORM RFD-01 under rule 89</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px; text-align: center;\">3.</td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">For refund under rule 96 of the integrated tax paid on goods exported out of India</td>\n    </tr>\n  </tbody>\n</table>\n\nProvided that if Aadhaar number has not been assigned to the person required to undergo authentication of the Aadhaar number, such person shall furnish the following identification documents, namely: -\n(a) her/his Aadhaar Enrolment ID slip; and\n(b) (i) Bank passbook with photograph; or\n(ii) Voter identity card issued by the Election Commission of India; or\n(iii) Passport; or\n(iv) Driving license issued by the Licensing Authority under the Motor Vehicles Act, 1988 (59 of 1988):\n\nProvided further that such person shall undergo the authentication of Aadhaar number within a period of thirty days of the allotment of the Aadhaar number.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "rule",
+      "id": "r10",
+      "text": "Rule 10"
+    },
+    {
+      "type": "rule",
+      "id": "r23",
+      "text": "Rule 23"
+    },
+    {
+      "type": "rule",
+      "id": "r89",
+      "text": "Rule 89"
+    },
+    {
+      "type": "rule",
+      "id": "r96",
+      "text": "Rule 96"
+    }
+  ]
+},
+    {
+  "id": "r11",
+  "number": "11",
+  "heading": "Separate registration for multiple places of business within a State or a Union territory",
+  "content": "(1) Any person having multiple places of business within a State or a Union territory, requiring a separate registration for any such place of business under sub-section (2) of section 25 shall be granted separate registration in respect of each such place of business subject to the following conditions, namely: -\n(a) such person has more than one place of business as defined in clause (85) of section 2;\n(b) such person shall not pay tax under section 10 for any of his places of business if he is paying tax under section 9 for any other place of business;\n(c) all separately registered places of business of such person shall pay tax under the Act on supply of goods or services or both made to another registered place of business of such person and issue a tax invoice or a bill of supply, as the case may be, for such supply.\nExplanation.- For the purposes of clause (b), it is hereby clarified that where any place of business of a registered person that has been granted a separate registration becomes ineligible to pay tax under section 10, all other registered places of business of the said person shall become ineligible to pay tax under the said section.\n\n(2) A registered person opting to obtain separate registration for a place of business shall submit a separate application in FORM GST REG-01 in respect of such place of business.\n\n(3) The provisions of rule 9 and rule 10 relating to the verification and the grant of registration shall, mutatis mutandis, apply to an application submitted under this rule.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "section",
+      "id": "s2",
+      "text": "Section 2"
+    },
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    },
+    {
+      "type": "section",
+      "id": "s9",
+      "text": "Section 9"
+    },
+    {
+      "type": "rule",
+      "id": "r9",
+      "text": "Rule 9"
+    },
+    {
+      "type": "rule",
+      "id": "r10",
+      "text": "Rule 10"
+    }
+  ]
+},
+    {
+  "id": "r12",
+  "number": "12",
+  "heading": "Grant of registration to persons required to deduct tax at source or to collect tax at source",
+  "content": "(1) Any person required to deduct tax in accordance with the provisions of section 51 or a person required to collect tax at source in accordance with the provisions of section 52 shall electronically submit an application, duly signed or verified through electronic verification code, in FORM GST REG-07 for the grant of registration through the common portal, either directly or through a Facilitation Centre notified by the Commissioner.\n\n(1A) A person applying for registration to deduct or collect tax in accordance with the provisions of section 51, or, as the case may be, section 52, in a State or Union territory where he does not have a physical presence, shall mention the name of the State or Union territory in PART A of the application in FORM GST REG-07 and mention the name of the State or Union territory in PART B thereof in which the principal place of business is located which may be different from the State or Union territory mentioned in PART A.\n\n(2) The proper officer may grant registration after due verification and issue a certificate of registration in FORM GST REG-06 within a period of three working days from the date of submission of the application.\n\n(3) Where, on a request made in writing by a person to whom a registration has been granted under sub-rule (2) or upon an enquiry or pursuant to any other proceeding under the Act, the proper officer is satisfied that a person to whom a certificate of registration in FORM GST REG-06 has been issued is no longer liable to deduct tax at source under section 51 or collect tax at source under section 52, the said officer may cancel the registration issued under sub-rule (2) and such cancellation shall be communicated to the said person electronically in FORM GST REG-08:\n\nProvided that the proper officer shall follow the procedure as provided in rule 22 for the cancellation of registration.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    },
+    {
+      "type": "rule",
+      "id": "r22",
+      "text": "Rule 22"
+    }
+  ]
+},
+    {
+  "id": "r13",
+  "number": "13",
+  "heading": "Grant of registration to non-resident taxable person",
+  "content": "(1) A non-resident taxable person shall electronically submit an application, along with a self-attested copy of his valid passport, for registration, duly signed or verified through electronic verification code, in FORM GST REG-09, at least five days prior to the commencement of business at the common portal either directly or through a Facilitation Centre notified by the Commissioner:\n\nProvided that in the case of a business entity incorporated or established outside India, the application for registration shall be submitted along with its tax identification number or unique number on the basis of which the entity is identified by the Government of that country or its Permanent Account Number, if available.\n\n(2) A person applying for registration as a non-resident taxable person shall be given a temporary reference number by the common portal for making an advance deposit of tax in accordance with the provisions of section 27 and the acknowledgement under sub-rule (5) of rule 8 shall be issued electronically only after the said deposit in his electronic cash ledger.\n\n(3) The provisions of rule 9 and rule 10 relating to the verification and the grant of registration shall, mutatis mutandis, apply to an application submitted under this rule.\n\n(4) The application for registration made by a non-resident taxable person shall be duly signed or verified through electronic verification code by his authorised signatory who shall be a person resident in India having a valid Permanent Account Number.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s27",
+      "text": "Section 27"
+    },
+    {
+      "type": "rule",
+      "id": "r8",
+      "text": "Rule 8"
+    },
+    {
+      "type": "rule",
+      "id": "r9",
+      "text": "Rule 9"
+    },
+    {
+      "type": "rule",
+      "id": "r10",
+      "text": "Rule 10"
+    }
+  ]
+},
+    {
+  "id": "r14",
+  "number": "14",
+  "heading": "Grant of registration to a person supplying online information and database access or retrieval services from a place outside India to a non-taxable online recipient or to a person supplying online money gaming from a place outside India to a person in India",
+  "content": "(1) Any person supplying online information and database access or retrieval services from a place outside India to a non-taxable online recipient or any person supplying online money gaming from a place outside India to a person in India shall electronically submit an application for registration, duly signed or verified through electronic verification code, in FORM GST REG-10, at the common portal, either directly or through a Facilitation Centre notified by the Commissioner.\n\n(2) The applicant referred to in sub-rule (1) shall be granted registration, in FORM GST REG-06, subject to such conditions and restrictions and by such officer as may be notified by the Central Government on the recommendations of the Council.",
+  "references": []
+},
+    {
+  "id": "r14A",
+  "number": "14A",
+  "heading": "Option for taxpayers having monthly output tax liability below threshold limit",
+  "content": "(1) Any person who has made application for registration under rule 8 and who determines that his total output tax liability on supply of goods or services or both made to registered persons on account of central tax and State tax or Union territory tax and integrated tax and compensation cess, does not exceed two lakh and fifty thousand rupees per month, shall have an option to get registration electronically, in accordance with the provisions of this rule.\n\n(2) Any person, other than a person notified under sub-section (6D) of section 25, who has not opted for authentication of Aadhaar number, shall not be eligible for grant of registration in terms of this rule.\n\n(3) Notwithstanding anything contained in rule 11, a person registered under this rule in a State or Union territory shall not be eligible to obtain another registration in the same State or Union territory under this rule against the same Permanent Account Number.\n\n(4) Upon successful authentication of Aadhaar number, the applicant referred to in sub-rule (1) shall be granted registration electronically by the common portal, within three working days from the date of submission of application.\n\n(5) The registered person who intends to withdraw from the option availed under sub-rule (1), shall file an application, in FORM GST REG-32, duly signed or verified through electronic verification code on the common portal, either directly or through a Facilitation Centre notified by the Commissioner:\n\nProvided that the registered person shall not be allowed to file such application unless he has furnished, -\n(a) returns for a period of minimum three months, where such application is filed before 1st April, 2026;\n(b) returns for a period of minimum one tax period, where such application is filed on or after 1st April, 2026; and\n(c) all the returns due for the period from the effective date of registration till the date of application for withdrawal:\n\nProvided further that the registered person shall be allowed to file such application where no proceedings under section 29 have been initiated against such registered person.\n\n(6) Where there is any change in particulars furnished in FORM GST REG-01 by the person who has been granted registration under this rule, the said registered person shall get the particulars amended under rule 19 before filing an application for withdrawal under sub-rule (5).\n\n(7) Based on data analysis and risk parameters on the common portal, the provisions of sub-rule (4A) of rule 8 relating to authentication of Aadhaar number or biometric-based Aadhaar authentication, taking photograph of the applicant along with verification of original copy of documents uploaded along with registration application in FORM GST REG-01, shall, so far as may be, apply to application for withdrawal filed under sub-rule (5).\n\n(8) The provisions of sub-rules (5) and (6) of rule 8 relating to issuance of acknowledgment, shall, mutatis mutandis, apply to the application filed under sub-rule (5).\n\n(9) The application filed for withdrawal under sub-rule (5), shall be verified in accordance with the provisions of rule 9.\n\n(10) Upon verification under sub-rule (9), the proper officer shall issue an order in FORM GST REG-33 allowing the application for withdrawal from the option availed under sub-rule (1) or order for rejection of application in FORM GST REG-05, within a period specified under rule 9, as the case may be, which shall be made available to the registered person on the common portal.\n\n(11) The registered person who has received an order issued under sub-rule (10) allowing withdrawal shall be able to furnish the details of output tax liability on supply of goods or services or both made to registered persons, exceeding the output tax liability as referred to in sub-rule (1), from the first day of succeeding month in which the said order has been issued.\n\n(12) A registered person to whom an order under sub-rule (10) has been issued, shall not amend the details furnished in respect of output tax liability so as to exceed the limit of the output tax liability specified in sub-rule (1) for the period prior to the first day of succeeding month in which the said order has been issued.\n\n(13) Where proceedings for cancellation of registration have been initiated by the proper officer after the filing of withdrawal application and the said proceedings are pending, the withdrawal application under sub-rule (5) shall be rejected by the proper officer and the provisions in relation to approval of application on deemed basis under sub-rule (5) of rule 9, shall not be applicable in such case.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "section",
+      "id": "s29",
+      "text": "Section 29"
+    },
+    {
+      "type": "rule",
+      "id": "r8",
+      "text": "Rule 8"
+    },
+    {
+      "type": "rule",
+      "id": "r11",
+      "text": "Rule 11"
+    },
+    {
+      "type": "rule",
+      "id": "r19",
+      "text": "Rule 19"
+    },
+    {
+      "type": "rule",
+      "id": "r9",
+      "text": "Rule 9"
+    }
+  ]
+},
+    {
+  "id": "r15",
+  "number": "15",
+  "heading": "Extension in period of operation by casual taxable person and non-resident taxable person",
+  "content": "(1) Where a registered casual taxable person or a non-resident taxable person intends to extend the period of registration indicated in his application of registration, an application in FORM GST REG-11 shall be submitted electronically through the common portal, either directly or through a Facilitation Centre notified by the Commissioner, by such person before the end of the validity of registration granted to him.\n\n(2) The application under sub-rule (1) shall be acknowledged only on payment of the amount specified in sub-section (2) of section 27.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s27",
+      "text": "Section 27"
+    }
+  ]
+},
+    {
+  "id": "r16",
+  "number": "16",
+  "heading": "Suo moto registration",
+  "content": "(1) Where, pursuant to any survey, enquiry, inspection, search or any other proceedings under the Act, the proper officer finds that a person liable to registration under the Act has failed to apply for such registration, such officer may register the said person on a temporary basis and issue an order in FORM GST REG-12.\n\n(2) The registration granted under sub-rule (1) shall be effective from the date of such order granting registration.\n\n(3) Every person to whom a temporary registration has been granted under sub-rule (1) shall, within a period of ninety days from the date of the grant of such registration, submit an application for registration in the form and manner provided in rule 8 or rule 12:\n\nProvided that where the said person has filed an appeal against the grant of temporary registration, in such case, the application for registration shall be submitted within a period of thirty days from the date of the issuance of the order upholding the liability to registration by the Appellate Authority.\n\n(4) The provisions of rule 9 and rule 10 relating to verification and the issue of the certificate of registration shall, mutatis mutandis, apply to an application submitted under sub-rule (3).\n\n(5) The Goods and Services Tax Identification Number assigned, pursuant to the verification under sub-rule (4), shall be effective from the date of the order granting registration under sub-rule (1).",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r8",
+      "text": "Rule 8"
+    },
+    {
+      "type": "rule",
+      "id": "r12",
+      "text": "Rule 12"
+    },
+    {
+      "type": "rule",
+      "id": "r9",
+      "text": "Rule 9"
+    },
+    {
+      "type": "rule",
+      "id": "r10",
+      "text": "Rule 10"
+    }
+  ]
+},
+    {
+  "id": "r16A",
+  "number": "16A",
+  "heading": "Grant of temporary identification number",
+  "content": "Where a person is not liable to registration under the Act but is required to make any payment under the provisions of the Act, the proper officer may grant the said person a temporary identification number and issue an order in Part B of FORM GST REG-12.",
+  "references": []
+},
+    {
+  "id": "r17",
+  "number": "17",
+  "heading": "Assignment of Unique Identity Number to certain special entities",
+  "content": "(1) Every person required to be granted a Unique Identity Number in accordance with the provisions of sub-section (9) of section 25 may submit an application electronically in FORM GST REG-13, duly signed or verified through electronic verification code, in the manner specified in rule 8 at the common portal, either directly or through a Facilitation Centre notified by the Commissioner.\n\n(1A) The Unique Identity Number granted under sub-rule (1) to a person under clause (a) of sub-section (9) of section 25 shall be applicable to the territory of India.\n\n(2) The proper officer may, upon submission of an application in FORM GST REG-13 or after filling up the said form or after receiving a recommendation from the Ministry of External Affairs, Government of India, assign a Unique Identity Number to the said person and issue a certificate in FORM GST REG-06 within a period of three working days from the date of the submission of the application.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s25",
+      "text": "Section 25"
+    },
+    {
+      "type": "rule",
+      "id": "r8",
+      "text": "Rule 8"
+    }
+  ]
+},
+    {
+  "id": "r18",
+  "number": "18",
+  "heading": "Display of registration certificate and Goods and Services Tax Identification Number on the name board",
+  "content": "(1) Every registered person shall display his certificate of registration in a prominent location at his principal place of business and at every additional place or places of business.\n\n(2) Every registered person shall display his Goods and Services Tax Identification Number on the name board exhibited at the entry of his principal place of business and at every additional place or places of business.",
+  "references": []
+},
+    {
+  "id": "r19",
+  "number": "19",
+  "heading": "Amendment of registration",
+  "content": "(1) Where there is any change in any of the particulars furnished in the application for registration in FORM GST REG-01 or FORM GST REG-07 or FORM GST REG-09 or FORM GST REG-10 or in the intimation furnished by the composition taxpayer in FORM GST CMP-02 or for Unique Identity Number in FORM GST REG-13, either at the time of obtaining registration or Unique Identity Number or as amended from time to time, the registered person shall, within a period of fifteen days of such change, submit an application, duly signed or verified through electronic verification code, electronically in FORM GST REG-14, along with the documents relating to such change at the common portal, either directly or through a Facilitation Centre notified by the Commissioner:\n\nProvided that -\n(a) where the change relates to, -\n(i) legal name of business;\n(ii) address of the principal place of business or any additional place(s) of business; or\n(iii) addition, deletion or retirement of partners or directors, Karta, Managing Committee, Board of Trustees, Chief Executive Officer or equivalent, responsible for the day to day affairs of the business, -\nwhich does not warrant cancellation of registration under section 29, the proper officer shall, after due verification, approve the amendment within a period of fifteen working days from the date of the receipt of the application in FORM GST REG-14 and issue an order in FORM GST REG-15 electronically and such amendment shall take effect from the date of the occurrence of the event warranting such amendment;\n(b) the change relating to sub-clause (i) and sub-clause (iii) of clause (a) in any State or Union territory shall be applicable for all registrations of the registered person obtained under the provisions of this Chapter on the same Permanent Account Number;\n(c) where the change relates to any particulars other than those specified in clause (a), the certificate of registration shall stand amended upon submission of the application in FORM GST REG-14 on the common portal;\n(d) where a change in the constitution of any business results in the change of the Permanent Account Number of a registered person, the said person shall apply for fresh registration in FORM GST REG-01:\n\nProvided further that any change in the mobile number or e-mail address of the authorised signatory submitted under this rule, as amended from time to time, shall be carried out only after online verification through the common portal in the manner provided under sub-rule (2) of rule 8.\n\n(1A) Notwithstanding anything contained in sub-rule (1), any particular of the application for registration shall not stand amended with effect from a date earlier than the date of submission of the application in FORM GST REG-14 on the common portal except with the order of the Commissioner for reasons to be recorded in writing and subject to such conditions as the Commissioner may, in the said order, specify.\n\n(2) Where the proper officer is of the opinion that the amendment sought under sub-rule (1) is either not warranted or the documents furnished therewith are incomplete or incorrect, he may, within a period of fifteen working days from the date of the receipt of the application in FORM GST REG-14, serve a notice in FORM GST REG-03, requiring the registered person to show cause, within a period of seven working days of the service of the said notice, as to why the application submitted under sub-rule (1) shall not be rejected.\n\n(3) The registered person shall furnish a reply to the notice to show cause, issued under sub-rule (2), in FORM GST REG-04, within a period of seven working days from the date of the service of the said notice.\n\n(4) Where the reply furnished under sub-rule (3) is found to be not satisfactory or where no reply is furnished in response to the notice issued under sub-rule (2) within the period prescribed in sub-rule (3), the proper officer shall reject the application submitted under sub-rule (1) and pass an order in FORM GST REG-05.\n\n(5) If the proper officer fails to take any action, -\n(a) within a period of fifteen working days from the date of submission of the application, or\n(b) within a period of seven working days from the date of the receipt of the reply to the notice to show cause under sub-rule (3),\nthe certificate of registration shall stand amended to the extent applied for and the amended certificate shall be made available to the registered person on the common portal.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s29",
+      "text": "Section 29"
+    },
+    {
+      "type": "rule",
+      "id": "r8",
+      "text": "Rule 8"
+    }
+  ]
+},
+    {
+  "id": "r20",
+  "number": "20",
+  "heading": "Application for cancellation of registration",
+  "content": "A registered person, other than a person to whom a registration has been granted under rule 12 or a person to whom a Unique Identity Number has been granted under rule 17, seeking cancellation of his registration under sub-section (1) of section 29 shall electronically submit an application in FORM GST REG-16, including therein the details of inputs held in stock or inputs contained in semi-finished or finished goods held in stock and of capital goods held in stock on the date from which the cancellation of registration is sought, liability thereon, the details of the payment, if any, made against such liability and may furnish, along with the application, relevant documents in support thereof, at the common portal within a period of thirty days of the occurrence of the event warranting the cancellation, either directly or through a Facilitation Centre notified by the Commissioner.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s29",
+      "text": "Section 29"
+    },
+    {
+      "type": "rule",
+      "id": "r12",
+      "text": "Rule 12"
+    },
+    {
+      "type": "rule",
+      "id": "r17",
+      "text": "Rule 17"
+    }
+  ]
 }
   ]
 }
