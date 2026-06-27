@@ -2161,6 +2161,385 @@
   ]
 },
     {
+  "id": "s116",
+  "number": "116",
+  "heading": "Appearance by authorised representative",
+  "content": "(1) Any person who is entitled or required to appear before an officer appointed under this Act, or the Appellate Authority or the Appellate Tribunal in connection with any proceedings under this Act, may, otherwise than when required under this Act to appear personally for examination on oath or affirmation, subject to the other provisions of this section, appear by an authorised representative.\n\n(2) For the purposes of this Act, the expression \"authorised representative\" shall mean a person authorised by the person referred to in sub-section (1) to appear on his behalf, being-\n(a) his relative or regular employee; or\n(b) an advocate who is entitled to practice in any court in India, and who has not been debarred from practicing before any court in India; or\n(c) any chartered accountant, a cost accountant or a company secretary, who holds a certificate of practice and who has not been debarred from practice; or\n(d) a retired officer of the Commercial Tax Department of any State Government or Union territory or of the Board who, during his service under the Government, had worked in a post not below the rank than that of a Group-B Gazetted officer for a period of not less than two years:\nProvided that such officer shall not be entitled to appear before any proceedings under this Act for a period of one year from the date of his retirement or resignation; or\n(e) any person who has been authorised to act as a goods and services tax practitioner on behalf of the concerned registered person.\n\n(3) No person,-\n(a) who has been dismissed or removed from Government service; or\n(b) who is convicted of an offence connected with any proceedings under this Act, the State Goods and Services Tax Act, the Integrated Goods and Services Tax Act or the Union Territory Goods and Services Tax Act, or under the existing law or under any of the Acts passed by a State Legislature dealing with the imposition of taxes on sale of goods or supply of goods or services or both; or\n(c) who is found guilty of misconduct by the prescribed authority;\n(d) who has been adjudged as an insolvent,\nshall be qualified to represent any person under sub-section (1)-\n(i) for all times in case of persons referred to in clauses (a), (b) and (c); and\n(ii) for the period during which the insolvency continues in the case of a person referred to in clause (d).\n\n(4) Any person who has been disqualified under the provisions of the State Goods and Services Tax Act or the Union Territory Goods and Services Tax Act shall be deemed to be disqualified under this Act.",
+  "references": []
+},
+{
+  "id": "s117",
+  "number": "117",
+  "heading": "Appeal to High Court",
+  "content": "(1) Any person aggrieved by any order passed by the State Benches of the Appellate Tribunal may file an appeal to the High Court and the High Court may admit such appeal, if it is satisfied that the case involves a substantial question of law.\n\n(2) An appeal under sub-section (1) shall be filed within a period of one hundred and eighty days from the date on which the order appealed against is received by the aggrieved person and it shall be in such form, verified in such manner as may be prescribed:\nProvided that the High Court may entertain an appeal after the expiry of the said period if it is satisfied that there was sufficient cause for not filing it within such period.\n\n(3) Where the High Court is satisfied that a substantial question of law is involved in any case, it shall formulate that question and the appeal shall be heard only on the question so formulated, and the respondents shall, at the hearing of the appeal, be allowed to argue that the case does not involve such question:\nProvided that nothing in this sub-section shall be deemed to take away or abridge the power of the court to hear, for reasons to be recorded, the appeal on any other substantial question of law not formulated by it, if it is satisfied that the case involves such question.\n\n(4) The High Court shall decide the question of law so formulated and deliver such judgment thereon containing the grounds on which such decision is founded and may award such cost as it deems fit.\n\n(5) The High Court may determine any issue which-\n(a) has not been determined by the State Benches; or\n(b) has been wrongly determined by the State Benches,\nby reason of a decision on such question of law as herein referred to in sub-section (3).\n\n(6) Where an appeal has been filed before the High Court, it shall be heard by a Bench of not less than two Judges of the High Court, and shall be decided in accordance with the opinion of such Judges or of the majority, if any, of such Judges.\n\n(7) Where there is no such majority, the Judges shall state the point of law upon which they differ and the case shall, then, be heard upon that point only, by one or more of the other Judges of the High Court and such point shall be decided according to the opinion of the majority of the Judges who have heard the case including those who first heard it.\n\n(8) Where the High Court delivers a judgment in an appeal filed before it under this section, effect shall be given to such judgment by either side on the basis of a certified copy of the judgment.\n\n(9) Save as otherwise provided in this Act, the provisions of the Code of Civil Procedure, 1908, (5 of 1908) relating to appeals to the High Court shall, as far as may be, apply in the case of appeals under this section.",
+  "references": []
+},
+{
+  "id": "s118",
+  "number": "118",
+  "heading": "Appeal to Supreme Court",
+  "content": "(1) An appeal shall lie to the Supreme Court-\n(a) from any order passed by the Principal Bench of the Appellate Tribunal; or\n(b) from any judgment or order passed by the High Court in an appeal made under section 117 in any case which, on its own motion or on an application made by or on behalf of the party aggrieved, immediately after passing of the judgment or order, the High Court certifies to be a fit one for appeal to the Supreme Court.\n\n(2) The provisions of the Code of Civil Procedure, 1908, relating to appeals to the Supreme Court shall, so far as may be, apply in the case of appeals under this section as they apply in the case of appeals from decrees of a High Court.\n\n(3) Where the judgment of the High Court is varied or reversed in the appeal, effect shall be given to the order of the Supreme Court in the manner provided in section 117 in the case of a judgment of the High Court.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s117",
+      "text": "Section 117"
+    }
+  ]
+},
+{
+  "id": "s119",
+  "number": "119",
+  "heading": "Sums due to be paid notwithstanding appeal, etc.",
+  "content": "Notwithstanding that an appeal has been preferred to the High Court or the Supreme Court, sums due to the Government as a result of an order passed by the Principal Bench of the Appellate Tribunal under sub-section (1) of section 113 or an order passed by the State Benches of the Appellate Tribunal under sub-section (1) of section 113 or an order passed by the High Court under section 117, as the case may be, shall be payable in accordance with the order so passed.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s113",
+      "text": "Section 113"
+    },
+    {
+      "type": "section",
+      "id": "s117",
+      "text": "Section 117"
+    }
+  ]
+},
+{
+  "id": "s120",
+  "number": "120",
+  "heading": "Appeal not to be filed in certain cases",
+  "content": "(1) The Board may, on the recommendations of the Council, from time to time, issue orders or instructions or directions fixing such monetary limits, as it may deem fit, for the purposes of regulating the filing of appeal or application by the officer of the central tax under the provisions of this Chapter.\n\n(2) Where, in pursuance of the orders or instructions or directions issued under sub-section (1), the officer of the central tax has not filed an appeal or application against any decision or order passed under the provisions of this Act, it shall not preclude such officer of the central tax from filing appeal or application in any other case involving the same or similar issues or questions of law.\n\n(3) Notwithstanding the fact that no appeal or application has been filed by the officer of the central tax pursuant to the orders or instructions or directions issued under sub-section (1), no person, being a party in appeal or application shall contend that the officer of the central tax has acquiesced in the decision on the disputed issue by not filing an appeal or application.\n\n(4) The Appellate Tribunal or court hearing such appeal or application shall have regard to the circumstances under which appeal or application was not filed by the officer of the central tax in pursuance of the orders or instructions or directions issued under sub-section (1).",
+  "references": []
+},
+{
+  "id": "s121",
+  "number": "121",
+  "heading": "Non-appealable decisions and orders",
+  "content": "Notwithstanding anything to the contrary in any provisions of this Act, no appeal shall lie against any decision taken or order passed by an officer of central tax if such decision taken or order passed relates to any one or more of the following matters, namely:-\n(a) an order of the Commissioner or other authority empowered to direct transfer of proceedings from one officer to another officer; or\n(b) an order pertaining to the seizure or retention of books of account, register and other documents; or\n(c) an order sanctioning prosecution under this Act; or\n(d) an order passed under section 80.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s80",
+      "text": "Section 80"
+    }
+  ]
+},
+{
+  "id": "s122",
+  "number": "122",
+  "heading": "Penalty for certain offences",
+  "content": "(1) Where a taxable person who-\n(i) supplies any goods or services or both without issue of any invoice or issues an incorrect or false invoice with regard to any such supply;\n(ii) issues any invoice or bill without supply of goods or services or both in violation of the provisions of this Act or the rules made thereunder;\n(iii) collects any amount as tax but fails to pay the same to the Government beyond a period of three months from the date on which such payment becomes due;\n(iv) collects any tax in contravention of the provisions of this Act but fails to pay the same to the Government beyond a period of three months from the date on which such payment becomes due;\n(v) fails to deduct the tax in accordance with the provisions of sub-section (1) of section 51, or deducts an amount which is less than the amount required to be deducted under the said sub-section, or where he fails to pay to the Government under sub-section (2) thereof, the amount deducted as tax;\n(vi) fails to collect tax in accordance with the provisions of sub-section (1) of section 52, or collects an amount which is less than the amount required to be collected under the said sub-section or where he fails to pay to the Government the amount collected as tax under sub-section (3) of section 52;\n(vii) takes or utilises input tax credit without actual receipt of goods or services or both either fully or partially, in contravention of the provisions of this Act or the rules made thereunder;\n(viii) fraudulently obtains refund of tax under this Act;\n(ix) takes or distributes input tax credit in contravention of section 20, or the rules made thereunder;\n(x) falsifies or substitutes financial records or produces fake accounts or documents or furnishes any false information or return with an intention to evade payment of tax due under this Act;\n(xi) is liable to be registered under this Act but fails to obtain registration;\n(xii) furnishes any false information with regard to registration particulars, either at the time of applying for registration, or subsequently;\n(xiii) obstructs or prevents any officer in discharge of his duties under this Act;\n(xiv) transports any taxable goods without the cover of documents as may be specified in this behalf;\n(xv) suppresses his turnover leading to evasion of tax under this Act;\n(xvi) fails to keep, maintain or retain books of account and other documents in accordance with the provisions of this Act or the rules made thereunder;\n(xvii) fails to furnish information or documents called for by an officer in accordance with the provisions of this Act or the rules made thereunder or furnishes false information or documents during any proceedings under this Act;\n(xviii) supplies, transports or stores any goods which he has reasons to believe are liable to confiscation under this Act;\n(xix) issues any invoice or document by using the registration number of another registered person;\n(xx) tampers with, or destroys any material evidence or document;\n(xxi) disposes off or tampers with any goods that have been detained, seized, or attached under this Act,\nhe shall be liable to pay a penalty of ten thousand rupees or an amount equivalent to the tax evaded or the tax not deducted under section 51 or short deducted or deducted but not paid to the Government or tax not collected under section 52 or short collected or collected but not paid to the Government or input tax credit availed of or passed on or distributed irregularly, or the refund claimed fraudulently, whichever is higher.\n\n(1A) Any person who retains the benefit of a transaction covered under clauses (i), (ii), (vii) or clause (ix) of sub-section (1) and at whose instance such transaction is conducted, shall be liable to a penalty of an amount equivalent to the tax evaded or input tax credit availed of or passed on.\n\n(1B) Any electronic commerce operator, who is liable to collect tax at source under section 52,-\n(i) allows a supply of goods or services or both through it by an unregistered person other than a person exempted from registration by a notification issued under this Act to make such supply;\n(ii) allows an inter-State supply of goods or services or both through it by a person who is not eligible to make such inter-State supply; or\n(iii) fails to furnish the correct details in the statement to be furnished under sub-section (4) of section 52 of any outward supply of goods effected through it by a person exempted from obtaining registration under this Act,\nshall be liable to pay a penalty of ten thousand rupees, or an amount equivalent to the amount of tax involved had such supply been made by a registered person other than a person paying tax under section 10, whichever is higher.\n\n(2) Any registered person who supplies any goods or services or both on which any tax has not been paid or short-paid or erroneously refunded, or where the input tax credit has been wrongly availed or utilised,-\n(a) for any reason, other than the reason of fraud or any wilful misstatement or suppression of facts to evade tax, shall be liable to a penalty of ten thousand rupees or ten per cent. of the tax due from such person, whichever is higher;\n(b) for reason of fraud or any wilful misstatement or suppression of facts to evade tax, shall be liable to a penalty equal to ten thousand rupees or the tax due from such person, whichever is higher.\n\n(3) Any person who-\n(a) aids or abets any of the offences specified in clauses (i) to (xxi) of sub-section (1);\n(b) acquires possession of, or in any way concerns himself in transporting, removing, depositing, keeping, concealing, supplying, or purchasing or in any other manner deals with any goods which he knows or has reasons to believe are liable to confiscation under this Act or the rules made thereunder;\n(c) receives or is in any way concerned with the supply of, or in any other manner deals with any supply of services which he knows or has reasons to believe are in contravention of any provisions of this Act or the rules made thereunder;\n(d) fails to appear before the officer of central tax, when issued with a summon for appearance to give evidence or produce a document in an inquiry;\n(e) fails to issue invoice in accordance with the provisions of this Act or the rules made thereunder or fails to account for an invoice in his books of account,\nshall be liable to a penalty which may extend to twenty-five thousand rupees.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s51",
+      "text": "Section 51"
+    },
+    {
+      "type": "section",
+      "id": "s52",
+      "text": "Section 52"
+    },
+    {
+      "type": "section",
+      "id": "s20",
+      "text": "Section 20"
+    },
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    }
+  ]
+},
+{
+  "id": "s122A",
+  "number": "122A",
+  "heading": "Penalty for failure to register certain machines used in manufacture of goods as per special procedure",
+  "content": "(1) Notwithstanding anything contained in this Act, where any person, who is engaged in the manufacture of goods in respect of which any special procedure relating to registration of machines has been notified under section 148, acts in contravention of the said special procedure, he shall, in addition to any penalty that is paid or is payable by him under Chapter XV or any other provisions of this Chapter, be liable to pay a penalty equal to an amount of one lakh rupees for every machine not so registered.\n\n(2) In addition to the penalty under sub-section (1), every machine not so registered shall be liable for seizure and confiscation:\nProvided that such machine shall not be confiscated where–\n(a) the penalty so imposed is paid; and\n(b) the registration of such machine is made in accordance with the special procedure within three days of the receipt of communication of the order of penalty.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s148",
+      "text": "Section 148"
+    }
+  ]
+},
+{
+  "id": "s122B",
+  "number": "122B",
+  "heading": "Penalty for failure to comply with track and trace mechanism",
+  "content": "Notwithstanding anything contained in this Act, where any person referred to in clause (b) of sub-section (1) of section 148A acts in contravention of the provisions of the said section, he shall, in addition to any penalty under Chapter XV or the provisions of this Chapter, be liable to pay a penalty equal to an amount of one lakh rupees or ten per cent. of the tax payable on such goods, whichever is higher.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s148A",
+      "text": "Section 148A"
+    }
+  ]
+},
+{
+  "id": "s123",
+  "number": "123",
+  "heading": "Penalty for failure to furnish information return",
+  "content": "If a person who is required to furnish an information return under section 150 fails to do so within the period specified in the notice issued under sub-section (3) thereof, the proper officer may direct that such person shall be liable to pay a penalty of one hundred rupees for each day of the period during which the failure to furnish such return continues:\n\nProvided that the penalty imposed under this section shall not exceed five thousand rupees.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s150",
+      "text": "Section 150"
+    }
+  ]
+},
+{
+  "id": "s124",
+  "number": "124",
+  "heading": "Fine for failure to furnish statistics",
+  "content": "If any person required to furnish any information or return under section 151,-\n(a) without reasonable cause fails to furnish such information or return as may be required under that section, or\n(b) wilfully furnishes or causes to furnish any information or return which he knows to be false,\nhe shall be punishable with a fine which may extend to ten thousand rupees and in case of a continuing offence to a further fine which may extend to one hundred rupees for each day after the first day during which the offence continues subject to a maximum limit of twenty-five thousand rupees.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s151",
+      "text": "Section 151"
+    }
+  ]
+},
+{
+  "id": "s125",
+  "number": "125",
+  "heading": "General penalty",
+  "content": "Any person, who contravenes any of the provisions of this Act or any rules made thereunder for which no penalty is separately provided for in this Act, shall be liable to a penalty which may extend to twenty-five thousand rupees.",
+  "references": []
+},
+{
+  "id": "s126",
+  "number": "126",
+  "heading": "General disciplines related to penalty",
+  "content": "(1) No officer under this Act shall impose any penalty for minor breaches of tax regulations or procedural requirements and in particular, any omission or mistake in documentation which is easily rectifiable and made without fraudulent intent or gross negligence.\nExplanation.-For the purpose of this sub-section,-\n(a) a breach shall be considered a \"minor breach\" if the amount of tax involved is less than five thousand rupees;\n(b) an omission or mistake in documentation shall be considered to be easily rectifiable if the same is an error apparent on the face of record.\n\n(2) The penalty imposed under this Act shall depend on the facts and circumstances of each case and shall be commensurate with the degree and severity of the breach.\n\n(3) No penalty shall be imposed on any person without giving him an opportunity of being heard.\n\n(4) The officer under this Act shall while imposing penalty in an order for a breach of any law, regulation or procedural requirement, specify the nature of the breach and the applicable law, regulation or procedure under which the amount of penalty for the breach has been specified.\n\n(5) When a person voluntarily discloses to an officer under this Act the circumstances of a breach of the tax law, regulation or procedural requirement prior to the discovery of the breach by the officer under this Act, the proper officer may consider this fact as a mitigating factor when quantifying a penalty for that person.\n\n(6) The provisions of this section shall not apply in such cases where the penalty specified under this Act is either a fixed sum or expressed as a fixed percentage.",
+  "references": []
+},
+{
+  "id": "s127",
+  "number": "127",
+  "heading": "Power to impose penalty in certain cases",
+  "content": "Where the proper officer is of the view that a person is liable to a penalty and the same is not covered under any proceedings under section 62 or section 63 or section 64 or section 73 or section 74 or section 74A or section 129 or section 130, he may issue an order levying such penalty after giving a reasonable opportunity of being heard to such person.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s62",
+      "text": "Section 62"
+    },
+    {
+      "type": "section",
+      "id": "s63",
+      "text": "Section 63"
+    },
+    {
+      "type": "section",
+      "id": "s64",
+      "text": "Section 64"
+    },
+    {
+      "type": "section",
+      "id": "s73",
+      "text": "Section 73"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s74A",
+      "text": "Section 74A"
+    },
+    {
+      "type": "section",
+      "id": "s129",
+      "text": "Section 129"
+    },
+    {
+      "type": "section",
+      "id": "s130",
+      "text": "Section 130"
+    }
+  ]
+},
+{
+  "id": "s128",
+  "number": "128",
+  "heading": "Power to waive penalty or fee or both",
+  "content": "The Government may, by notification, waive in part or full, any penalty referred to in section 122 or section 123 or section 125 or any late fee referred to in section 47 for such class of taxpayers and under such mitigating circumstances as may be specified therein on the recommendations of the Council.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s122",
+      "text": "Section 122"
+    },
+    {
+      "type": "section",
+      "id": "s123",
+      "text": "Section 123"
+    },
+    {
+      "type": "section",
+      "id": "s125",
+      "text": "Section 125"
+    },
+    {
+      "type": "section",
+      "id": "s47",
+      "text": "Section 47"
+    }
+  ]
+},
+{
+  "id": "s128A",
+  "number": "128A",
+  "heading": "Waiver of interest or penalty or both relating to demands raised under section 73, for certain tax periods",
+  "content": "(1) Notwithstanding anything to the contrary contained in this Act, where any amount of tax is payable by a person chargeable with tax in accordance with,––\n(a) a notice issued under sub-section (1) of section 73 or a statement issued under sub-section (3) of section 73, and where no order under sub-section (9) of section 73 has been issued; or\n(b) an order passed under sub-section (9) of section 73, and where no order under sub-section (11) of section 107 or sub-section (1) of section 108 has been passed; or\n(c) an order passed under sub-section (11) of section 107 or sub-section (1) of section 108, and where no order under sub-section (1) of section 113 has been passed,\npertaining to the period from 1st July, 2017 to 31st March, 2020, or a part thereof, and the said person pays the full amount of tax payable as per the notice or statement or the order referred to in clause (a), clause (b) or clause (c), as the case may be, on or before the date, as may be notified by the Government on the recommendations of the Council, no interest under section 50 and penalty under this Act, shall be payable and all the proceedings in respect of the said notice or order or statement, as the case may be, shall be deemed to be concluded, subject to such conditions as may be prescribed:\nProvided that where a notice has been issued under sub-section (1) of section 74, and an order is passed or required to be passed by the proper officer in pursuance of the direction of the Appellate Authority or Appellate Tribunal or a court in accordance with the provisions of sub-section (2) of section 75, the said notice or order shall be considered to be a notice or order, as the case may be, referred to in clause (a) or clause (b) of this sub-section:\nProvided further that the conclusion of the proceedings under this sub-section, in cases where an application is filed under sub-section (3) of section 107 or under sub-section (3) of section 112 or an appeal is filed by an officer of central tax under sub-section (1) of section 117 or under sub-section (1) of section 118 or where any proceedings are initiated under sub-section (1) of section 108, against an order referred to in clause (b) or clause (c) or against the directions of the Appellate Authority or the Appellate Tribunal or the court referred to in the first proviso, shall be subject to the condition that the said person pays the additional amount of tax payable, if any, in accordance with the order of the Appellate Authority or the Appellate Tribunal or the court or the Revisional Authority, as the case may be, within three months from the date of the said order:\nProvided also that where such interest and penalty has already been paid, no refund of the same shall be available.\n\n(2) Nothing contained in sub-section (1) shall be applicable in respect of any amount payable by the person on account of erroneous refund.\n\n(3) Nothing contained in sub-section (1) shall be applicable in respect of cases where an appeal or writ petition filed by the said person is pending before Appellate Authority or Appellate Tribunal or a court, as the case may be, and has not been withdrawn by the said person on or before the date notified under sub-section (1).\n\n(4) Notwithstanding anything contained in this Act, where any amount specified under sub-section (1) has been paid and the proceedings are deemed to be concluded under the said sub-section, no appeal under sub-section (1) of section 107 or sub-section (1) of section 112 shall lie against an order referred to in clause (b) or clause (c) of sub-section (1), as the case may be.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s73",
+      "text": "Section 73"
+    },
+    {
+      "type": "section",
+      "id": "s107",
+      "text": "Section 107"
+    },
+    {
+      "type": "section",
+      "id": "s108",
+      "text": "Section 108"
+    },
+    {
+      "type": "section",
+      "id": "s113",
+      "text": "Section 113"
+    },
+    {
+      "type": "section",
+      "id": "s50",
+      "text": "Section 50"
+    },
+    {
+      "type": "section",
+      "id": "s74",
+      "text": "Section 74"
+    },
+    {
+      "type": "section",
+      "id": "s75",
+      "text": "Section 75"
+    },
+    {
+      "type": "section",
+      "id": "s112",
+      "text": "Section 112"
+    },
+    {
+      "type": "section",
+      "id": "s117",
+      "text": "Section 117"
+    },
+    {
+      "type": "section",
+      "id": "s118",
+      "text": "Section 118"
+    }
+  ]
+},
+{
+  "id": "s129",
+  "number": "129",
+  "heading": "Detention, seizure and release of goods and conveyances in transit",
+  "content": "(1) Notwithstanding anything contained in this Act, where any person transports any goods or stores any goods while they are in transit in contravention of the provisions of this Act or the rules made thereunder, all such goods and conveyance used as a means of transport for carrying the said goods and documents relating to such goods and conveyance shall be liable to detention or seizure and after detention or seizure, shall be released,-\n(a) on payment of penalty equal to two hundred per cent. of the tax payable on such goods and, in case of exempted goods, on payment of an amount equal to two per cent. of the value of goods or twenty-five thousand rupees, whichever is less, where the owner of the goods comes forward for payment of such penalty;\n(b) on payment of penalty equal to fifty per cent. of the value of the goods or two hundred per cent. of the tax payable on such goods, whichever is higher, and in case of exempted goods, on payment of an amount equal to five per cent. of the value of goods or twenty-five thousand rupees, whichever is less, where the owner of the goods does not come forward for payment of such penalty;\n(c) upon furnishing a security equivalent to the amount payable under clause (a) or clause (b) in such form and manner as may be prescribed:\nProvided that no such goods or conveyance shall be detained or seized without serving an order of detention or seizure on the person transporting the goods.\n\n(3) The proper officer detaining or seizing goods or conveyance shall issue a notice within seven days of such detention or seizure, specifying the penalty payable, and thereafter, pass an order within a period of seven days from the date of service of such notice, for payment of penalty under clause (a) or clause (b) of sub-section (1).\n\n(4) No penalty shall be determined under sub-section (3) without giving the person concerned an opportunity of being heard.\n\n(5) On payment of amount referred in sub-section (1), all proceedings in respect of the notice specified in sub-section (3) shall be deemed to be concluded.\n\n(6) Where the person transporting any goods or the owner of such goods fails to pay the amount of penalty under sub-section (1) within fifteen days from the date of receipt of the copy of the order passed under sub-section (3), the goods or conveyance so detained or seized shall be liable to be sold or disposed of otherwise, in such manner and within such time as may be prescribed, to recover the penalty payable under sub-section (3):\nProvided that the conveyance shall be released on payment by the transporter of penalty under sub-section (3) or one lakh rupees, whichever is less:\nProvided further that where the detained or seized goods are perishable or hazardous in nature or are likely to depreciate in value with passage of time, the said period of fifteen days may be reduced by the proper officer.",
+  "references": []
+},
+{
+  "id": "s130",
+  "number": "130",
+  "heading": "Confiscation of goods or conveyances and levy of penalty",
+  "content": "(1) Where any person-\n(i) supplies or receives any goods in contravention of any of the provisions of this Act or the rules made thereunder with intent to evade payment of tax; or\n(ii) does not account for any goods on which he is liable to pay tax under this Act; or\n(iii) supplies any goods liable to tax under this Act without having applied for registration; or\n(iv) contravenes any of the provisions of this Act or the rules made thereunder with intent to evade payment of tax; or\n(v) uses any conveyance as a means of transport for carriage of goods in contravention of the provisions of this Act or the rules made thereunder unless the owner of the conveyance proves that it was so used without the knowledge or connivance of the owner himself, his agent, if any, and the person in charge of the conveyance,\nthen, all such goods or conveyances shall be liable to confiscation and the person shall be liable to penalty under section 122.\n\n(2) Whenever confiscation of any goods or conveyance is authorised by this Act, the officer adjudging it shall give to the owner of the goods an option to pay in lieu of confiscation, such fine as the said officer thinks fit:\nProvided that such fine leviable shall not exceed the market value of the goods confiscated, less the tax chargeable thereon:\nProvided further that the aggregate of such fine and penalty leviable shall not be less than the penalty equal to hundred per cent. of the tax payable on such goods:\nProvided also that where any such conveyance is used for the carriage of the goods or passengers for hire, the owner of the conveyance shall be given an option to pay in lieu of the confiscation of the conveyance a fine equal to the tax payable on the goods being transported thereon.\n\n(4) No order for confiscation of goods or conveyance or for imposition of penalty shall be issued without giving the person an opportunity of being heard.\n\n(5) Where any goods or conveyance are confiscated under this Act, the title of such goods or conveyance shall thereupon vest in the Government.\n\n(6) The proper officer adjudging confiscation shall take and hold possession of the things confiscated and every officer of Police, on the requisition of such proper officer, shall assist him in taking and holding such possession.\n\n(7) The proper officer may, after satisfying himself that the confiscated goods or conveyance are not required in any other proceedings under this Act and after giving reasonable time not exceeding three months to pay fine in lieu of confiscation, dispose of such goods or conveyance and deposit the sale proceeds thereof with the Government.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s122",
+      "text": "Section 122"
+    }
+  ]
+},
+{
+  "id": "s131",
+  "number": "131",
+  "heading": "Confiscation or penalty not to interfere with other punishments",
+  "content": "Without prejudice to the provisions contained in the Code of Criminal Procedure, 1973, (2 of 1974) no confiscation made or penalty imposed under the provisions of this Act or the rules made thereunder shall prevent the infliction of any other punishment to which the person affected thereby is liable under the provisions of this Act or under any other law for the time being in force.",
+  "references": []
+},
+{
+  "id": "s132",
+  "number": "132",
+  "heading": "Punishment for certain offences",
+  "content": "(1) Whoever commits, or causes to commit and retain the benefits arising out of, any of the following offences, namely:-\n(a) supplies any goods or services or both without issue of any invoice, in violation of the provisions of this Act or the rules made thereunder, with the intention to evade tax;\n(b) issues any invoice or bill without supply of goods or services or both in violation of the provisions of this Act, or the rules made thereunder leading to wrongful availment or utilisation of input tax credit or refund of tax;\n(c) avails input tax credit using the invoice or bill referred to in clause (b) or fraudulently avails input tax credit without any invoice or bill;\n(d) collects any amount as tax but fails to pay the same to the Government beyond a period of three months from the date on which such payment becomes due;\n(e) evades tax or fraudulently obtains refund and where such offence is not covered under clauses (a) to (d);\n(f) falsifies or substitutes financial records or produces fake accounts or documents or furnishes any false information with an intention to evade payment of tax due under this Act;\n(g) ****;\n(h) acquires possession of, or in any way concerns himself in transporting, removing, depositing, keeping, concealing, supplying, or purchasing or in any other manner deals with, any goods which he knows or has reasons to believe are liable to confiscation under this Act or the rules made thereunder;\n(i) receives or is in any way concerned with the supply of, or in any other manner deals with any supply of services which he knows or has reasons to believe are in contravention of any provisions of this Act or the rules made thereunder;\n(j) ****;\n(k) ****; or\n(l) attempts to commit, or abets the commission of any of the offences mentioned in clauses (a) to (f) and clauses (h) and (i) of this section,\nshall be punishable-\n(i) in cases where the amount of tax evaded or the amount of input tax credit wrongly availed or utilised or the amount of refund wrongly taken exceeds five hundred lakh rupees, with imprisonment for a term which may extend to five years and with fine;\n(ii) in cases where the amount of tax evaded or the amount of input tax credit wrongly availed or utilised or the amount of refund wrongly taken exceeds two hundred lakh rupees but does not exceed five hundred lakh rupees, with imprisonment for a term which may extend to three years and with fine;\n(iii) in the case of an offence specified in clause (b), where the amount of tax evaded or the amount of input tax credit wrongly availed or utilised or the amount of refund wrongly taken exceeds one hundred lakh rupees but does not exceed two hundred lakh rupees, with imprisonment for a term which may extend to one year and with fine;\n(iv) in cases where he commits or abets the commission of an offence specified in clause (f), he shall be punishable with imprisonment for a term which may extend to six months or with fine or with both.\n\n(2) Where any person convicted of an offence under this section is again convicted of an offence under this section, then, he shall be punishable for the second and for every subsequent offence with imprisonment for a term which may extend to five years and with fine.\n\n(3) The imprisonment referred to in clauses (i), (ii) and (iii) of sub-section (1) and sub-section (2) shall, in the absence of special and adequate reasons to the contrary to be recorded in the judgment of the Court, be for a term not less than six months.\n\n(4) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, all offences under this Act, except the offences referred to in sub-section (5) shall be non-cognizable and bailable.\n\n(5) The offences specified in clause (a) or clause (b) or clause (c) or clause (d) of sub-section (1) and punishable under clause (i) of that sub-section shall be cognizable and non-bailable.\n\n(6) A person shall not be prosecuted for any offence under this section except with the previous sanction of the Commissioner.\nExplanation.- For the purposes of this section, the term \"tax\" shall include the amount of tax evaded or the amount of input tax credit wrongly availed or utilised or refund wrongly taken under the provisions of this Act, the State Goods and Services Tax Act, the Integrated Goods and Services Tax Act or the Union Territory Goods and Services Tax Act and cess levied under the Goods and Services Tax (Compensation to States) Act.",
+  "references": []
+},
+{
+  "id": "s133",
+  "number": "133",
+  "heading": "Liability of officers and certain other persons",
+  "content": "(1) Where any person engaged in connection with the collection of statistics under section 151 or compilation or computerisation thereof or if any officer of central tax having access to information specified under sub-section (1) of section 150, or if any person engaged in connection with the provision of service on the common portal or the agent of common portal, wilfully discloses any information or the contents of any return furnished under this Act or rules made thereunder otherwise than in execution of his duties under the said sections or for the purposes of prosecution for an offence under this Act or under any other Act for the time being in force, he shall be punishable with imprisonment for a term which may extend to six months or with fine which may extend to twenty-five thousand rupees, or with both.\n\n(2) Any person-\n(a) who is a Government servant shall not be prosecuted for any offence under this section except with the previous sanction of the Government;\n(b) who is not a Government servant shall not be prosecuted for any offence under this section except with the previous sanction of the Commissioner.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s151",
+      "text": "Section 151"
+    },
+    {
+      "type": "section",
+      "id": "s150",
+      "text": "Section 150"
+    }
+  ]
+},
+{
+  "id": "s134",
+  "number": "134",
+  "heading": "Cognizance of offences",
+  "content": "No court shall take cognizance of any offence punishable under this Act or the rules made thereunder except with the previous sanction of the Commissioner, and no court inferior to that of a Magistrate of the First Class, shall try any such offence.",
+  "references": []
+},
+{
+  "id": "s135",
+  "number": "135",
+  "heading": "Presumption of culpable mental state",
+  "content": "In any prosecution for an offence under this Act which requires a culpable mental state on the part of the accused, the court shall presume the existence of such mental state but it shall be a defence for the accused to prove the fact that he had no such mental state with respect to the act charged as an offence in that prosecution.\nExplanation.-For the purposes of this section,-\n(i) the expression \"culpable mental state\" includes intention, motive, knowledge of a fact, and belief in, or reason to believe, a fact;\n(ii) a fact is said to be proved only when the court believes it to exist beyond reasonable doubt and not merely when its existence is established by a preponderance of probability.",
+  "references": []
+},
+{
+  "id": "s136",
+  "number": "136",
+  "heading": "Relevancy of statements under certain circumstances",
+  "content": "A statement made and signed by a person on appearance in response to any summons issued under section 70 during the course of any inquiry or proceedings under this Act shall be relevant, for the purpose of proving, in any prosecution for an offence under this Act, the truth of the facts which it contains,-\n(a) when the person who made the statement is dead or cannot be found, or is incapable of giving evidence, or is kept out of the way by the adverse party, or whose presence cannot be obtained without an amount of delay or expense which, under the circumstances of the case, the court considers unreasonable; or\n(b) when the person who made the statement is examined as a witness in the case before the court and the court is of the opinion that, having regard to the circumstances of the case, the statement should be admitted in evidence in the interest of justice.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s70",
+      "text": "Section 70"
+    }
+  ]
+},
+{
+  "id": "s137",
+  "number": "137",
+  "heading": "Offences by companies",
+  "content": "(1) Where an offence committed by a person under this Act is a company, every person who, at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.\n\n(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any negligence on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.\n\n(3) Where an offence under this Act has been committed by a taxable person being a partnership firm or a Limited Liability Partnership or a Hindu Undivided Family or a trust, the partner or karta or managing trustee shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly and the provisions of sub-section (2) shall, mutatis mutandis, apply to such persons.\n\n(4) Nothing contained in this section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.\nExplanation.-For the purposes of this section,-\n(i) \"company\" means a body corporate and includes a firm or other association of individuals; and\n(ii) \"director\", in relation to a firm, means a partner in the firm.",
+  "references": []
+},
+    {
   "id": "s148",
   "number": "148",
   "heading": "Special procedure for certain processes",
