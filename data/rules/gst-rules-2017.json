@@ -1226,6 +1226,29 @@
       "text": "Rule 48"
     }
   ]
+},
+    {
+  "id": "r46A",
+  "number": "46A",
+  "heading": "Invoice-cum-bill of supply",
+  "content": "Notwithstanding anything contained in rule 46 or rule 49 or rule 54, where a registered person is supplying taxable as well as exempted goods or services or both to an unregistered person, a single \"invoice-cum-bill of supply\" may be issued for all such supplies.\n\nProvided that the said single \"invoice-cum-bill of supply\" shall contain the particulars as specified under rule 46 or rule 54, as the case may be, and rule 49.",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r46",
+      "text": "Rule 46"
+    },
+    {
+      "type": "rule",
+      "id": "r49",
+      "text": "Rule 49"
+    },
+    {
+      "type": "rule",
+      "id": "r54",
+      "text": "Rule 54"
+    }
+  ]
 }
   ]
 }
