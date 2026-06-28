@@ -3202,7 +3202,106 @@
     }
   ]
 },
-    
+    {
+  "id": "r138A",
+  "number": "138A",
+  "heading": "Documents and devices to be carried by a person-in-charge of a conveyance",
+  "content": "(1) The person in charge of a conveyance shall carry-\n(a) the invoice or bill of supply or delivery challan, as the case may be; and\n(b) a copy of the e-waybill in physical form or the e-way bill number in electronic form or mapped to a Radio Frequency Identification Device embedded on to the conveyance in such manner as may be notified by the Commissioner:\n\nProvided that nothing contained in clause (b) of this sub-rule shall apply in case of movement of goods by rail or by air or vessel:\n\nProvided further that in case of imported goods, the person in charge of a conveyance shall also carry a copy of the bill of entry filed by the importer of such goods and shall indicate the number and date of the bill of entry in Part A of FORM GST EWB-01.\n\n(2) In case, invoice is issued in the manner prescribed under sub-rule (4) of rule 48, the Quick Response (QR) code having an embedded Invoice Reference Number (IRN) in it, may be produced electronically, for verification by the proper officer in lieu of the physical copy of such tax invoice.\n\n(3) Where the registered person uploads the invoice under sub-rule (2), the information in Part A of FORM GST EWB-01 shall be auto-populated by the common portal on the basis of the information furnished in FORM GST INV-1.\n\n(4) The Commissioner may, by Notification, require a class of transporters to obtain a unique Radio Frequency Identification Device and get the said device embedded on to the conveyance and map the e-way bill to the Radio Frequency Identification Device prior to the movement of goods.\n\n(5) Notwithstanding anything contained in clause (b) of sub-rule (1), where circumstances so warrant, the Commissioner may, by Notification, require the person-in-charge of the conveyance to carry the following documents instead of the e-way bill:\n(a) tax invoice or bill of supply or bill of entry; or\n(b) a delivery challan, where the goods are transported for reasons other than by way of supply.",
+  "references": [
+    {
+      "type": "rule",
+      "id": "r48",
+      "text": "Rule 48"
+    }
+  ]
+},
+{
+  "id": "r138B",
+  "number": "138B",
+  "heading": "Verification of documents and conveyances",
+  "content": "(1) The Commissioner or an officer empowered by him in this behalf may authorize the proper officer to intercept any conveyance to verify the e-way bill in physical or electronic form for all inter-State and intra-State movement of goods.\n\n(2) The Commissioner shall get Radio Frequency Identification Device readers installed at places where the verification of movement of goods is required to be carried out and verification of movement of vehicles shall be done through such device readers where the e-way bill has been mapped with the said device.\n\n(3) The physical verification of conveyances shall be carried out by the proper officer as authorised by the Commissioner or an officer empowered by him in this behalf:\n\nProvided that on receipt of specific information on evasion of tax, physical verification of a specific conveyance can also be carried out by any other officer after obtaining necessary approval of the Commissioner or an officer authorised by him in this behalf.",
+  "references": []
+},
+{
+  "id": "r138C",
+  "number": "138C",
+  "heading": "Inspection and verification of goods",
+  "content": "(1) A summary report of every inspection of goods in transit shall be recorded online by the proper officer in Part A of FORM GST EWB-03 within twenty four hours of inspection and the final report in Part B of FORM GST EWB-03 shall be recorded within three days of such inspection.\n\nProvided that where the circumstances so warrant, the Commissioner, or any other officer authorised by him, may, on sufficient cause being shown, extend the time for recording of the final report in Part B of FORM EWB-03, for a further period not exceeding three days.\n\nExplanation.- The period of twenty four hours or, as the case may be, three days shall be counted from the midnight of the date on which the vehicle was intercepted.\n\n(2) Where the physical verification of goods being transported on any conveyance has been done during transit at one place within the State or Union territory or in any other State or Union territory, no further physical verification of the said conveyance shall be carried out again in the State or Union territory, unless a specific information relating to evasion of tax is made available subsequently.",
+  "references": []
+},
+{
+  "id": "r138D",
+  "number": "138D",
+  "heading": "Facility for uploading information regarding detention of vehicle",
+  "content": "Where a vehicle has been intercepted and detained for a period exceeding thirty minutes, the transporter may upload the said information in FORM GST EWB-04 on the common portal.\n\nExplanation. - For the purposes of this Chapter, the expressions 'transported by railways', 'transportation of goods by railway', 'transport of goods by rail' and 'movement of goods by rail' does not include cases where leasing of parcel space by Railways takes place.",
+  "references": []
+},
+{
+  "id": "r138E",
+  "number": "138E",
+  "heading": "Restriction on furnishing of information in PART A of FORM GST EWB-01",
+  "content": "Notwithstanding anything contained in sub-rule (1) of rule 138, no person (including a consignor, consignee, transporter, an e-commerce operator or a courier agency) shall be allowed to furnish the information in PART A of FORM GST EWB-01 in respect of any outward movement of goods of a registered person, who, -\n(a) being a person paying tax under section 10 or availing the benefit of Notification of the Government of India, Ministry of Finance, Department of Revenue No 02/2019-Central Tax (Rate), dated the 7th March, 2019, published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) vide number G.S.R. 189, dated the 7th March, 2019, has not furnished the statement in FORM GST CMP-08 for two consecutive quarters; or\n(b) being a person other than a person specified in clause (a), has not furnished the returns for a consecutive period of two tax periods;\n(c) being a person other than a person specified in clause (a), has not furnished the statement of outward supplies for any two months or quarters, as the case may be;\n(d) being a person, whose registration has been suspended under the provisions of sub-rule (1) or sub-rule (2) or sub-rule (2A) of rule 21A:\n\nProvided that the Commissioner may, on receipt of an application from a registered person in FORM GST EWB-05, on sufficient cause being shown and for reasons to be recorded in writing, by order, in FORM GST EWB-06 allow furnishing of the said information in PART A of FORM GST EWB-01, subject to such conditions and restrictions as may be specified by him:\n\nProvided further that no order rejecting the request of such person to furnish the information in PART A of FORM GST EWB-01 under the first proviso shall be passed without affording the said person a reasonable opportunity of being heard:\n\nProvided also that the permission granted or rejected by the Commissioner of State tax or Commissioner of Union territory tax shall be deemed to be granted or, as the case may be, rejected by the Commissioner:\n\nProvided also that the said restriction shall not apply during the period from the 20th day of March, 2020 till the 15th day of October, 2020 in case where the return in FORM GSTR-3B or the statement of outward supplies in FORM GSTR-1 or the statement in FORM GST CMP-08, as the case may be, has not been furnished for the period February, 2020 to August, 2020.\n\nProvided also that the said restriction shall not apply during the period from the 1st day of May, 2021 till the 18th day of August, 2021, in case where the return in FORM GSTR-3B or the statement of outward supplies in FORM GSTR-1 or the statement in FORM GST CMP-08, as the case may be, has not been furnished for the period March, 2021 to May, 2021.\n\nExplanation:-For the purposes of this rule, the expression \"Commissioner\" shall mean the jurisdictional Commissioner in respect of the persons specified in clauses (a) and (b).",
+  "references": [
+    {
+      "type": "section",
+      "id": "s10",
+      "text": "Section 10"
+    },
+    {
+      "type": "rule",
+      "id": "r138",
+      "text": "Rule 138"
+    },
+    {
+      "type": "rule",
+      "id": "r21A",
+      "text": "Rule 21A"
+    }
+  ]
+},
+{
+  "id": "r138F",
+  "number": "138F",
+  "heading": "Information to be furnished in case of intra-State movement of gold, precious stones, etc. and generation of e-way bills thereof",
+  "content": "(1) Where-\n(a) a Commissioner of State tax or Union territory tax mandates furnishing of information regarding intra-State movement of goods specified against serial numbers 4 and 5 in the Annexure appended to sub-rule (14) of rule 138, in accordance with sub-rule (1) of rule 138F of the State or Union territory Goods and Services Tax Rules, and\n(b) the consignment value of such goods exceeds such amount, not below rupees two lakhs, as may be notified by the Commissioner of State tax or Union territory tax, in consultation with the jurisdictional Principal Chief Commissioner or Chief Commissioner of Central Tax, or any Commissioner of Central Tax authorised by him,\nnotwithstanding anything contained in Rule 138, every registered person who causes intra-State movement of such goods, -\n(i) in relation to a supply; or\n(ii) for reasons other than supply; or\n(iii) due to inward supply from an un-registered person,\nshall, before the commencement of such movement within that State or Union territory, furnish information relating to such goods electronically, as specified in Part A of FORM GST EWB-01, against which a unique number shall be generated:\n\nProvided that where the goods to be transported are supplied through an e-commerce operator or a courier agency, the information in Part A of FORM GST EWB-01 may be furnished by such e-commerce operator or courier agency.\n\n(2) The information as specified in PART B of FORM GST EWB-01 shall not be required to be furnished in respect of movement of goods referred to in the sub-rule (1) and after furnishing information in Part-A of FORM GST EWB-01 as specified in sub-rule (1), the e-way bill shall be generated in FORM GST EWB-01, electronically on the common portal.\n\n(3) The information furnished in Part A of FORM GST EWB-01 shall be made available to the registered supplier on the common portal who may utilize the same for furnishing the details in FORM GSTR-1.\n\n(4) Where an e-way bill has been generated under this rule, but goods are either not transported or are not transported as per the details furnished in the e-waybill, the e-way bill may be cancelled, electronically on the common portal, within twenty-four hours of generation of the e-way bill:\n\nProvided that an e-way bill cannot be cancelled if it has been verified in transit in accordance with the provisions of rule 138B.\n\n(5) Notwithstanding anything contained in this rule, no e-way bill is required to be generated-\n(a) where the goods are being transported from the customs port, airport, air cargo complex and land customs station to an inland container depot or a container freight station for clearance by Customs;\n(b) where the goods are being transported-\n(i) under customs bond from an inland container depot or a container freight station to a customs port, airport, air cargo complex and land customs station, or from one customs station or customs port to another customs station or customs port, or\n(ii) under customs supervision or under customs seal.\n\n(6) The provisions of sub-rule (10), sub-rule (11) and sub-rule (12) of rule 138, rule 138A, rule 138B, rule 138C, rule 138D and rule 138E shall, mutatis mutandis, apply to an e-way bill generated under this rule.\n\nExplanation.- For the purposes of this rule, the consignment value of goods shall be the value, determined in accordance with the provisions of section 15, declared in an invoice, a bill of supply or a delivery challan, as the case may be, issued in respect of the said consignment and also includes the central tax, State tax or Union territory tax charged in the document and shall exclude the value of exempt supply of goods where the invoice is issued in respect of both exempt and taxable supply of goods.",
+  "references": [
+    {
+      "type": "section",
+      "id": "s15",
+      "text": "Section 15"
+    },
+    {
+      "type": "rule",
+      "id": "r138",
+      "text": "Rule 138"
+    },
+    {
+      "type": "rule",
+      "id": "r138A",
+      "text": "Rule 138A"
+    },
+    {
+      "type": "rule",
+      "id": "r138B",
+      "text": "Rule 138B"
+    },
+    {
+      "type": "rule",
+      "id": "r138C",
+      "text": "Rule 138C"
+    },
+    {
+      "type": "rule",
+      "id": "r138D",
+      "text": "Rule 138D"
+    },
+    {
+      "type": "rule",
+      "id": "r138E",
+      "text": "Rule 138E"
+    }
+  ]
+},
     {
   "id": "r139",
   "number": "139",
