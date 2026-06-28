@@ -1,35 +1,34 @@
 {
+  "title": "Important Sections & Rules",
+  "shortTitle": "Important GST Provisions",
+  "version": "1.0",
+  "lastUpdated": "2026-06-28",
+  "description": "Most frequently used sections and rules for quick reference",
   "items": [
     {
-      "id": "imp1",
-      "type": "section",
-      "number": "2",
-      "heading": "Definitions (Key Definitions)",
-      "content": "Key definitions that are most frequently used in GST compliance including business, consideration, goods, services, and taxable person.",
-      "references": [
-        { "type": "rule", "id": "r2", "text": "Rule 2" }
-      ],
-      "notes": "Most commonly referred section in GST"
-    },
-    {
-      "id": "imp2",
-      "type": "section",
-      "number": "7",
-      "heading": "Scope of Supply",
-      "content": "Definition of supply including all forms of supply of goods or services for consideration in the course or furtherance of business.",
-      "references": [],
-      "notes": "Critical for determining tax liability"
-    },
-    {
-      "id": "imp3",
+      "id": "imp-r39",
       "type": "rule",
-      "number": "2(a)",
-      "heading": "Definition of Business",
-      "content": "Business includes any trade, commerce, manufacture, or any adventure in the nature of trade, commerce, or manufacture.",
+      "number": "39",
+      "heading": "Procedure for distribution of input tax credit by Input Service Distributor",
+      "content": "(1) An Input Service Distributor shall distribute input tax credit in the manner and subject to the following conditions, namely:–\n(a) the input tax credit available for distribution in a month shall be distributed in the same month and the details thereof shall be furnished in FORM GSTR-6 in accordance with the provisions of Chapter VIII of these rules;\n(b) the amount of the credit distributed shall not exceed the amount of credit available for distribution;\n(c) the credit of tax paid on input services attributable to a recipient of credit shall be distributed only to that recipient;\n(d) the credit of tax paid on input services attributable to more than one recipient of credit shall be distributed amongst such recipients to whom the input service is attributable and such distribution shall be pro rata on the basis of the turnover in a State or turnover in a Union territory of such recipient, during the relevant period, to the aggregate of the turnover of all such recipients to whom such input service is attributable and which are operational in the current year, during the said relevant period;\n(e) the credit of tax paid on input services attributable to all recipients of credit shall be distributed amongst such recipients and such distribution shall be pro rata on the basis of the turnover in a State or turnover in a Union territory of such recipient, during the relevant period, to the aggregate of the turnover of all recipients and which are operational in the current year, during the said relevant period;\n(f) the input tax credit that is required to be distributed in accordance with the provisions of clause (d) and (e) to one of the recipients \"R1\", whether registered or not, from amongst the total of all the recipients to whom input tax credit is attributable, including the recipients who are engaged in making exempt supply, or are otherwise not registered for any reason, shall be the amount, \"C1\", to be calculated by applying the following formula-\nC1 = (t1 / T) x C\nwhere,\n\"C\" is the amount of credit to be distributed,\n\"t1\" is the turnover, as referred to in clause (d) and (e), of person R1 during the relevant period, and\n\"T\" is the aggregate of the turnover, during the relevant period, of all recipients to whom the input service is attributable in accordance with the provisions of clause (d) and (e);\n(g) the Input Service Distributor shall, in accordance with the provisions of clause (d) and (e), separately distribute the amount of ineligible input tax credit (ineligible under the provisions of sub-section (5) of section 17 or otherwise) and the amount of eligible input tax credit;\n(h) the input tax credit on account of central tax, State tax, Union territory tax and integrated tax shall be distributed separately in accordance with the provisions of clause (d) and (e);\n(i) the input tax credit on account of integrated tax shall be distributed as input tax credit of integrated tax to every recipient;\n(j) the input tax credit on account of central tax and State tax or Union territory tax shall–\n(i) in respect of a recipient located in the same State or Union territory in which the Input Service Distributor is located, be distributed as input tax credit of central tax and State tax or Union territory tax respectively;\n(ii) in respect of a recipient located in a State or Union territory other than that of the Input Service Distributor, be distributed as integrated tax and the amount to be so distributed shall be equal to the aggregate of the amount of input tax credit of central tax and State tax or Union territory tax that qualifies for distribution to such recipient as referred to in clause (d) and (e);\n(k) the Input Service Distributor shall issue an Input Service Distributor invoice, as provided in sub-rule (1) of rule 54, clearly indicating in such invoice that it is issued only for distribution of input tax credit;\n(l) the Input Service Distributor shall issue an Input Service Distributor credit note, as provided in sub-rule (1) of rule 54, for reduction of credit in case the input tax credit already distributed gets reduced for any reason;\n(m) any additional amount of input tax credit on account of issuance of a debit note to an Input Service Distributor by the supplier shall be distributed in the manner and subject to the conditions specified in clauses (a) to (j) and the amount attributable to any recipient shall be calculated in the manner provided in clause (f) and such credit shall be distributed in the month in which the debit note is included in the return in FORM GSTR-6;\n(n) any input tax credit required to be reduced on account of issuance of a credit note to the Input Service Distributor by the supplier shall be apportioned to each recipient in the same ratio in which the input tax credit contained in the original invoice was distributed in terms of clause (f), and the amount so apportioned shall be-\n(i) reduced from the amount to be distributed in the month in which the credit note is included in the return in FORM GSTR-6; or\n(ii) added to the output tax liability of the recipient where the amount so apportioned is in the negative by virtue of the amount of credit under distribution being less than the amount to be adjusted.\n\n(1A) For the distribution of credit in respect of input services, attributable to one or more distinct persons, subject to levy of tax under sub-section (3) or (4) of section 9 of the Central Goods and Services Tax Act, 2017 or under sub-section (3) or sub-section (4) of section 5 of the Integrated Goods and Service Tax Act, 2017 (13 of 2025), a registered person, having the same PAN and State code as an Input Service Distributor, may issue an invoice or, as the case may be, a credit or debit note as per the provisions of sub-rule (1A) of rule 54 to transfer the credit of such common input services to the Input Service Distributor, and such credit shall be distributed by the said Input Service Distributor in the manner as provided in sub-rule (1).\n\n(2) If the amount of input tax credit distributed by an Input Service Distributor is reduced later on for any other reason for any of the recipients, including that it was distributed to a wrong recipient by the Input Service Distributor, the process specified in clause (n) of sub-rule (1) shall apply, mutatis mutandis, for reduction of credit.\n\n(3) Subject to sub-rule (2), the Input Service Distributor shall, on the basis of the Input Service Distributor credit note specified in clause (j) of sub-rule (1), issue an Input Service Distributor invoice to the recipient entitled to such credit and include the Input Service Distributor credit note and the Input Service Distributor invoice in the return in FORM GSTR-6 for the month in which such credit note and invoice was issued.\n\nExplanation. — For the purpose of this rule, –\n(i) the term \"relevant period\" shall be—\n(a) if the recipients of credit have turnover in their States or Union territories in the financial year preceding the year during which credit is to be distributed, the said financial year; or\n(b) if some or all recipients of the credit do not have any turnover in their States or Union territories in the financial year preceding the year during which the credit is to be distributed, the last quarter for which details of such turnover of all the recipients are available, previous to the month during which credit is to be distributed;\n(ii) the expression \"recipient of credit\" means the supplier of goods or services or both having the same Permanent Account Number as that of the Input Service Distributor;\n(iii) the term \"turnover\", in relation to any registered person engaged in the supply of taxable goods as well as goods not taxable under this Act, means the value of turnover, reduced by the amount of any duty or tax levied under entries 84 and 92A of List I of the Seventh Schedule to the Constitution and entries 51 and 54 of List II of the said Schedule.",
       "references": [
-        { "type": "section", "id": "s2", "text": "Section 2" }
+        {
+          "type": "section",
+          "id": "s17",
+          "text": "Section 17"
+        },
+        {
+          "type": "section",
+          "id": "s9",
+          "text": "Section 9"
+        },
+        {
+          "type": "rule",
+          "id": "r54",
+          "text": "Rule 54"
+        }
       ],
-      "notes": "Determines who is liable to register"
+      "notes": "Key rule for Input Service Distributors - defines the methodology for distributing input tax credit among multiple recipients"
     }
   ]
 }
